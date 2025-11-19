@@ -122,201 +122,188 @@ def prompt3():
 
 def prompt4_econ():
     return """
-    You are a smart and context-aware conversational agent.
-
-    Below is a dialogue between one or more students (S1, S2, ...), total students (S) and a teacher (T).
-    Utterances with the same index represent one or more Language-Related Episodes (LREs).
-    Note that identical utterances may appear under different indices.
-    Treat duplicate utterances as a single utterance for the purpose of this task.
-
-    Students are as follows:
-    Korean L1, English L2
-    TOEFL iBT 60+ minimum requirement
-    No overseas experience in English-speaking countries
-    Admission based on: English interview + middle school English grades
-
-    The teacher is like:
-    Korean L1, English L2
-    Education: Economics + Education double major (Bachelor's)
-    Teaching experience: 5 years public high school → 3 years at this school
-    TOEFL: above-average scores (all sections)
-    EMI experience: Student (undergraduate) → Teacher (at this school)
-    No overseas study experience
-    No prior English-medium economics teaching experience
-    Self-developed economics English textbook
-    Teaching load: 4 classes (2 first-year, 2 second-year), twice weekly
-    Professional development: school-provided teacher program
-
-
-    The teacher provides support and scaffolding based on the following instructional strategies:
-
-    (1) Teacher corrective feedback (CF) strategy types
-    1. Identify students’ attitudes toward CF and set shared goals appropriate to the context.
-    2. Provide CF confidently, as it supports both accuracy and fluency development.
-    3. Use focused CF targeting specific language forms relevant to the lesson.
-    4. Make it clear when CF is being given, especially in spoken interactions.
-    5. Adapt CF to the learner by starting implicitly and shifting to more explicit forms if needed.
-    6. Vary the timing of oral CF (immediate or delayed); written CF is typically delayed.
-    7. Allow space for learner uptake without forcing immediate correction.
-    8. Tailor CF methods to each learner’s cognitive and emotional needs.
-    9. Be willing to correct the same error multiple times for self-regulation.
-    10. Monitor learners’ anxiety and adjust CF to ensure it remains supportive.
-
-    (2) Students uptake types
-    1. Uptake is initiated by the student.
-    2. It is optional—students are not required to respond after receiving CF.
-    3. It typically follows a moment when the learner reveals a knowledge gap (e.g., through an error or question).
-    4. It responds to a teacher move that provides linguistic information, either explicitly or implicitly.
-
-
-    Without any external background, infer the topic and situation of the lesson based solely on the exchange provided.
-    Then, naturally continue the dialogue in a way that aligns with the context, the profiles of the students and the teacher and instructional strategies.
-
-
-    Maintain the following constraints:
-    - Generate the same number of dialogue turns as the input.
-    - Follow the same alternating speaker pattern and conversational style.
-    - Ensure that each utterance is similar in length and complexity to the original turns.
-
-
-    Continue the dialogue:
-    """.strip()
+            You are a smart and context-aware conversational agent.
+        
+            Below is a dialogue between one or more students (S1, S2, ...), total students (S) and a teacher (T).
+            Utterances with the same index represent one or more Language-Related Episodes (LREs).
+            Note that identical utterances may appear under different indices.
+            Treat duplicate utterances as a single utterance for the purpose of this task.
+        
+            Students are as follows:
+            Korean L1, English L2
+            TOEFL iBT 60+ minimum requirement
+            No overseas experience in English-speaking countries
+            Admission based on: English interview + middle school English grades
+        
+            The teacher is like:
+            Korean L1, English L2
+            Education: Economics + Education double major (Bachelor's)
+            Teaching experience: 5 years public high school → 3 years at this school
+            TOEFL: above-average scores (all sections)
+            EMI experience: Student (undergraduate) → Teacher (at this school)
+            No overseas study experience
+            No prior English-medium economics teaching experience
+            Self-developed economics English textbook
+            Teaching load: 4 classes (2 first-year, 2 second-year), twice weekly
+            Professional development: school-provided teacher program
+        
+            The teacher provides support and scaffolding based on the following instructional strategies:
+        
+            (1) Teacher corrective feedback (CF) strategy types
+            1. Identify students’ attitudes toward CF and set shared goals appropriate to the context.
+            2. Provide CF confidently, as it supports both accuracy and fluency development.
+            3. Use focused CF targeting specific language forms relevant to the lesson.
+            4. Make it clear when CF is being given, especially in spoken interactions.
+            5. Adapt CF to the learner by starting implicitly and shifting to more explicit forms if needed.
+            6. Vary the timing of oral CF (immediate or delayed); written CF is typically delayed.
+            7. Allow space for learner uptake without forcing immediate correction.
+            8. Tailor CF methods to each learner’s cognitive and emotional needs.
+            9. Be willing to correct the same error multiple times for self-regulation.
+            10. Monitor learners’ anxiety and adjust CF to ensure it remains supportive.
+        
+            (2) Students uptake types
+            1. Uptake is initiated by the student.
+            2. It is optional—students are not required to respond after receiving CF.
+            3. It typically follows a moment when the learner reveals a knowledge gap (e.g., through an error or question).
+            4. It responds to a teacher move that provides linguistic information, either explicitly or implicitly.
+             
+            Without any external background, infer the topic and situation of the lesson based solely on the exchange provided.
+            Then, naturally continue the dialogue in a way that aligns with the context, the profiles of the students and the teacher and instructional strategies.
+         
+            Maintain the following constraints:
+            - Generate the same number of dialogue turns as the input.
+            - Follow the same alternating speaker pattern and conversational style.
+            - Ensure that each utterance is similar in length and complexity to the original turns.
+        
+            Continue the dialogue:
+            """.strip()
 
 def prompt4_math():
     return """
-      You are a smart and context-aware conversational agent.
-
-      Below is a dialogue between one or more students (S1, S2, ...), total students (S) and a teacher (T).
-      Utterances with the same index represent one or more Language-Related Episodes (LREs).
-      Note that identical utterances may appear under different indices.
-      Treat duplicate utterances as a single utterance for the purpose of this task.
-
-      Students are as follows:
-      Korean L1, English L2
-      TOEFL iBT 60+ minimum requirement
-      No overseas experience in English-speaking countries
-      Admission based on: English interview + middle school English grades
-
-      The teacher is like:
-      English L1 (Ireland)
-      Education: Biology + Physiology double major (Bachelor's, UK) + Science & Maths Education (Postgraduate Diploma, UK)
-      Teaching experience: 3 years secondary school (Ireland) → 2 years ESL elementary (Seoul) → private English academy → this school (since 2017)
-      Subjects taught: Mathematics, Biology (EMI)
-      Teaching load: Second-year mathematics, twice weekly
-      Background: Science/maths teacher → ESL teacher → EMI teacher
-
-      The teacher provides support and scaffolding based on the following instructional strategies:
-
-      (1) Teacher corrective feedback (CF) strategy types
-      1. Identify students’ attitudes toward CF and set shared goals appropriate to the context.
-      2. Provide CF confidently, as it supports both accuracy and fluency development.
-      3. Use focused CF targeting specific language forms relevant to the lesson.
-      4. Make it clear when CF is being given, especially in spoken interactions.
-      5. Adapt CF to the learner by starting implicitly and shifting to more explicit forms if needed.
-      6. Vary the timing of oral CF (immediate or delayed); written CF is typically delayed.
-      7. Allow space for learner uptake without forcing immediate correction.
-      8. Tailor CF methods to each learner’s cognitive and emotional needs.
-      9. Be willing to correct the same error multiple times for self-regulation.
-      10. Monitor learners’ anxiety and adjust CF to ensure it remains supportive.
-
-      (2) Students uptake types
-      1. Uptake is initiated by the student.
-      2. It is optional—students are not required to respond after receiving CF.
-      3. It typically follows a moment when the learner reveals a knowledge gap (e.g., through an error or question).
-      4. It responds to a teacher move that provides linguistic information, either explicitly or implicitly.
-
-      Without any external background, infer the topic and situation of the lesson based solely on the exchange provided.
-      Then, naturally continue the dialogue in a way that aligns with the context, the profiles of the students and the teacher and instructional strategies.
-
-      Maintain the following constraints:
-      - Generate the same number of dialogue turns as the input.
-      - Follow the same alternating speaker pattern and conversational style.
-      - Ensure that each utterance is similar in length and complexity to the original turns.
-
-      Continue the dialogue:
-    """.strip()    
+            You are a smart and context-aware conversational agent.
+            
+            Below is a dialogue between one or more students (S1, S2, ...), total students (S) and a teacher (T).
+            Utterances with the same index represent one or more Language-Related Episodes (LREs).
+            Note that identical utterances may appear under different indices.
+            Treat duplicate utterances as a single utterance for the purpose of this task.
+            
+            Students are as follows:
+            Korean L1, English L2
+            TOEFL iBT 60+ minimum requirement
+            No overseas experience in English-speaking countries
+            Admission based on: English interview + middle school English grades
+            
+            The teacher is like:
+            English L1 (Ireland)
+            Education: Biology + Physiology double major (Bachelor's, UK) + Science & Maths Education (Postgraduate Diploma, UK)
+            Teaching experience: 3 years secondary school (Ireland) → 2 years ESL elementary (Seoul) → private English academy → this school (since 2017)
+            Subjects taught: Mathematics, Biology (EMI)
+            Teaching load: Second-year mathematics, twice weekly
+            Background: Science/maths teacher → ESL teacher → EMI teacher
+            
+            The teacher provides support and scaffolding based on the following instructional strategies:
+            
+            (1) Teacher corrective feedback (CF) strategy types
+            1. Identify students’ attitudes toward CF and set shared goals appropriate to the context.
+            2. Provide CF confidently, as it supports both accuracy and fluency development.
+            3. Use focused CF targeting specific language forms relevant to the lesson.
+            4. Make it clear when CF is being given, especially in spoken interactions.
+            5. Adapt CF to the learner by starting implicitly and shifting to more explicit forms if needed.
+            6. Vary the timing of oral CF (immediate or delayed); written CF is typically delayed.
+            7. Allow space for learner uptake without forcing immediate correction.
+            8. Tailor CF methods to each learner’s cognitive and emotional needs.
+            9. Be willing to correct the same error multiple times for self-regulation.
+            10. Monitor learners’ anxiety and adjust CF to ensure it remains supportive.
+            
+            (2) Students uptake types
+            1. Uptake is initiated by the student.
+            2. It is optional—students are not required to respond after receiving CF.
+            3. It typically follows a moment when the learner reveals a knowledge gap (e.g., through an error or question).
+            4. It responds to a teacher move that provides linguistic information, either explicitly or implicitly.
+            
+            Without any external background, infer the topic and situation of the lesson based solely on the exchange provided.
+            Then, naturally continue the dialogue in a way that aligns with the context, the profiles of the students and the teacher and instructional strategies.
+            
+            Maintain the following constraints:
+            - Generate the same number of dialogue turns as the input.
+            - Follow the same alternating speaker pattern and conversational style.
+            - Ensure that each utterance is similar in length and complexity to the original turns.
+            
+            Continue the dialogue:
+            """.strip()    
     
 def prompt5_econ():
     return """
-      You are a smart and context-aware conversational agent.
-
-      Below is a dialogue between one or more students (S1, S2, ...), total students (S) and a teacher (T).
-      Utterances with the same index represent one or more Language-Related Episodes (LREs).
-      Note that identical utterances may appear under different indices.
-      Treat duplicate utterances as a single utterance for the purpose of this task.
-
-
-      Students are as follows:
-      Korean L1, English L2
-      TOEFL iBT 60+ minimum requirement
-      No overseas experience in English-speaking countries
-      Admission based on: English interview + middle school English grades
-
-
-      The teacher is like:
-      Korean L1, English L2
-      Education: Economics + Education double major (Bachelor's)
-      Teaching experience: 5 years public high school → 3 years at this school
-      TOEFL: above-average scores (all sections)
-      EMI experience: Student (undergraduate) → Teacher (at this school)
-      No overseas study experience
-      No prior English-medium economics teaching experience
-      Self-developed economics English textbook
-      Teaching load: 4 classes (2 first-year, 2 second-year), twice weekly
-      Professional development: school-provided teacher program
-
-
-      Without any external background, infer the topic and situation of the lesson based solely on the exchange provided.
-      Then, naturally continue the dialogue in a way that aligns with the context, the profiles of the students and the teacher.
-
-
-      Maintain the following constraints:
-      - Generate the same number of dialogue turns as the input.
-      - Follow the same alternating speaker pattern and conversational style.
-      - Ensure that each utterance is similar in length and complexity to the original turns.
-
-
-      Continue the dialogue:
-    """.strip()
+          You are a smart and context-aware conversational agent.
+    
+          Below is a dialogue between one or more students (S1, S2, ...), total students (S) and a teacher (T).
+          Utterances with the same index represent one or more Language-Related Episodes (LREs).
+          Note that identical utterances may appear under different indices.
+          Treat duplicate utterances as a single utterance for the purpose of this task.
+    
+          Students are as follows:
+          Korean L1, English L2
+          TOEFL iBT 60+ minimum requirement
+          No overseas experience in English-speaking countries
+          Admission based on: English interview + middle school English grades
+    
+          The teacher is like:
+          Korean L1, English L2
+          Education: Economics + Education double major (Bachelor's)
+          Teaching experience: 5 years public high school → 3 years at this school
+          TOEFL: above-average scores (all sections)
+          EMI experience: Student (undergraduate) → Teacher (at this school)
+          No overseas study experience
+          No prior English-medium economics teaching experience
+          Self-developed economics English textbook
+          Teaching load: 4 classes (2 first-year, 2 second-year), twice weekly
+          Professional development: school-provided teacher program
+    
+          Without any external background, infer the topic and situation of the lesson based solely on the exchange provided.
+          Then, naturally continue the dialogue in a way that aligns with the context, the profiles of the students and the teacher.
+    
+          Maintain the following constraints:
+          - Generate the same number of dialogue turns as the input.
+          - Follow the same alternating speaker pattern and conversational style.
+          - Ensure that each utterance is similar in length and complexity to the original turns.
+    
+          Continue the dialogue:
+        """.strip()
 
 def prompt5_math():
     return """
-      You are a smart and context-aware conversational agent.
+          You are a smart and context-aware conversational agent.
+    
+          Below is a dialogue between one or more students (S1, S2, ...), total students (S) and a teacher (T).
+          Utterances with the same index represent one or more Language-Related Episodes (LREs).
+          Note that identical utterances may appear under different indices.
+          Treat duplicate utterances as a single utterance for the purpose of this task.
+    
+          Students are as follows:
+          Korean L1, English L2
+          TOEFL iBT 60+ minimum requirement
+          No overseas experience in English-speaking countries
+          Admission based on: English interview + middle school English grades
+    
+          The teacher is like:
+          English L1 (Ireland)
+          Education: Biology + Physiology double major (Bachelor's, UK) + Science & Maths Education (Postgraduate Diploma, UK)
+          Teaching experience: 3 years secondary school (Ireland) → 2 years ESL elementary (Seoul) → private English academy → this school (since 2017)
+          Subjects taught: Mathematics, Biology (EMI)
+          Teaching load: Second-year mathematics, twice weekly
+          Background: Science/maths teacher → ESL teacher → EMI teacher
+    
+          Without any external background, infer the topic and situation of the lesson based solely on the exchange provided.
+          Then, naturally continue the dialogue in a way that aligns with the context, the profiles of the students and the teacher.
+    
+          Maintain the following constraints:
+          - Generate the same number of dialogue turns as the input.
+          - Follow the same alternating speaker pattern and conversational style.
+          - Ensure that each utterance is similar in length and complexity to the original turns.
+    
+          Continue the dialogue:
+        """.strip()
 
-      Below is a dialogue between one or more students (S1, S2, ...), total students (S) and a teacher (T).
-      Utterances with the same index represent one or more Language-Related Episodes (LREs).
-      Note that identical utterances may appear under different indices.
-      Treat duplicate utterances as a single utterance for the purpose of this task.
-
-
-      Students are as follows:
-      Korean L1, English L2
-      TOEFL iBT 60+ minimum requirement
-      No overseas experience in English-speaking countries
-      Admission based on: English interview + middle school English grades
-
-
-      The teacher is like:
-      English L1 (Ireland)
-      Education: Biology + Physiology double major (Bachelor's, UK) + Science & Maths Education (Postgraduate Diploma, UK)
-      Teaching experience: 3 years secondary school (Ireland) → 2 years ESL elementary (Seoul) → private English academy → this school (since 2017)
-      Subjects taught: Mathematics, Biology (EMI)
-      Teaching load: Second-year mathematics, twice weekly
-      Background: Science/maths teacher → ESL teacher → EMI teacher
-
-
-      Without any external background, infer the topic and situation of the lesson based solely on the exchange provided.
-      Then, naturally continue the dialogue in a way that aligns with the context, the profiles of the students and the teacher.
-
-
-      Maintain the following constraints:
-      - Generate the same number of dialogue turns as the input.
-      - Follow the same alternating speaker pattern and conversational style.
-      - Ensure that each utterance is similar in length and complexity to the original turns.
-
-
-      Continue the dialogue:
-    """.strip()
 
 # ================================
 # 3. Original data (json)-> prompt
