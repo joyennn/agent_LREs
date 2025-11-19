@@ -1,0 +1,1850 @@
+[
+  {
+    "index": "1",
+    "speaker": "T",
+    "utterance": "First, the definition of a production function. A production function is a relationship between inputs and products.",
+    "LRE": "V"
+  },
+  {
+    "index": "2",
+    "speaker": "T",
+    "utterance": "‘Input’ means the factors of the production and ‘product’ means goods and services.",
+    "LRE": "V"
+  },
+  {
+    "index": "3",
+    "speaker": "T",
+    "utterance": "Input means the factors of the production and ‘product’ means goods and services.",
+    "LRE": "V"
+  },
+  {
+    "index": "4",
+    "speaker": "T",
+    "utterance": "In other words, we can call it, output.",
+    "LRE": "V"
+  },
+  {
+    "index": "5",
+    "speaker": "T",
+    "utterance": "So, we should examine how a firm produces its products, it’s goods and services.",
+    "LRE": "V"
+  },
+  {
+    "index": "6",
+    "speaker": "T",
+    "utterance": "So, we should examine how a firm produces its products, it’s goods and services. More precisely, how much output does it produce by using how much input?",
+    "LRE": "R"
+  },
+  {
+    "index": "7",
+    "speaker": "T",
+    "utterance": "The following paragraph is a former definition of a production function. The production function is a relationship between the quantity of inputs used to make goods, there are labour, capital, and land which we typically call ‘factors of production’.",
+    "LRE": "V"
+  },
+  {
+    "index": "8",
+    "speaker": "T",
+    "utterance": "The following paragraph is a former definition of a production function. The production function is a relationship between the quantity of inputs used to make goods, there are labour, capital, and land which we typically call ‘factors of production’.",
+    "LRE": "V"
+  },
+  {
+    "index": "9",
+    "speaker": "T",
+    "utterance": "Okay, so, Q stands for…?",
+    "LRE": "V"
+  },
+  {
+    "index": "9",
+    "speaker": "S1",
+    "utterance": "Quantity?",
+    "LRE": "V"
+  },
+  {
+    "index": "9",
+    "speaker": "T",
+    "utterance": "Yes, a quantity of output, a quantity of product…",
+    "LRE": "V"
+  },
+  {
+    "index": "10",
+    "speaker": "T",
+    "utterance": "…and L stands for labour.",
+    "LRE": "V"
+  },
+  {
+    "index": "11",
+    "speaker": "T",
+    "utterance": "K stands for? (silence)",
+    "LRE": "V"
+  },
+  {
+    "index": "11",
+    "speaker": "T",
+    "utterance": "K?",
+    "LRE": "V"
+  },
+  {
+    "index": "11",
+    "speaker": "S2",
+    "utterance": "Quality…?",
+    "LRE": "V"
+  },
+  {
+    "index": "11",
+    "speaker": "T",
+    "utterance": "Nice try, but it’s ‘capital’.",
+    "LRE": "V"
+  },
+  {
+    "index": "12",
+    "speaker": "T",
+    "utterance": "The reason we use ‘K’ is that we might be confused with C which will be in the next chapter.",
+    "LRE": "V"
+  },
+  {
+    "index": "13",
+    "speaker": "T",
+    "utterance": "C stands for? Anyone? (silence)",
+    "LRE": "V"
+  },
+  {
+    "index": "13",
+    "speaker": "T",
+    "utterance": "...cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "14",
+    "speaker": "T",
+    "utterance": "So, if you see ‘C’, you should be able to distinguish it from ‘capital’, K. In German, actually, they use ‘K’ for capital. So, perhaps that’s where ‘K’ for capital came from.",
+    "LRE": "V"
+  },
+  {
+    "index": "15",
+    "speaker": "T",
+    "utterance": "So, there are two concepts of time period in the future in economics. One is short-run. It’s a time period of fewer than four to six months.",
+    "LRE": "V"
+  },
+  {
+    "index": "16",
+    "speaker": "T",
+    "utterance": "… and long-run, which is greater than six months or sometimes one year.",
+    "LRE": ""
+  },
+  {
+    "index": "17",
+    "speaker": "T",
+    "utterance": "…let’s look at the two equations, two functions, short-run production function that q equals p, l, and k.",
+    "LRE": "R"
+  },
+  {
+    "index": "18",
+    "speaker": "T",
+    "utterance": "You can see that Bob is on the k, the capital, that means capital is fixed in the short-run.",
+    "LRE": "V"
+  },
+  {
+    "index": "19",
+    "speaker": "T",
+    "utterance": "Next, what is the cost? Inputs bring about costs. So the function can be written in other ways as below. Q equals p, c. Again, c stands for?",
+    "LRE": "V"
+  },
+  {
+    "index": "19",
+    "speaker": "S4",
+    "utterance": "Cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "19",
+    "speaker": "T",
+    "utterance": "Yes, cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "20",
+    "speaker": "T",
+    "utterance": "Inputs bring about cost. Cost makes products, quantity.",
+    "LRE": "V"
+  },
+  {
+    "index": "21",
+    "speaker": "T",
+    "utterance": "So, what kind of function is this?",
+    "LRE": "V"
+  },
+  {
+    "index": "21",
+    "speaker": "S1",
+    "utterance": "Um… combined function…?",
+    "LRE": "V"
+  },
+  {
+    "index": "21",
+    "speaker": "T",
+    "utterance": "Com….?",
+    "LRE": "V"
+  },
+  {
+    "index": "21",
+    "speaker": "S1",
+    "utterance": "Combined function.",
+    "LRE": "V"
+  },
+  {
+    "index": "21",
+    "speaker": "T",
+    "utterance": "Composition function.",
+    "LRE": "V"
+  },
+  {
+    "index": "22",
+    "speaker": "T",
+    "utterance": "What does input make?",
+    "LRE": "V"
+  },
+  {
+    "index": "22",
+    "speaker": "S3",
+    "utterance": "C",
+    "LRE": "V"
+  },
+  {
+    "index": "22",
+    "speaker": "T",
+    "utterance": "Yes, cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "23",
+    "speaker": "T",
+    "utterance": "In economics, if there’s no other explanation, the word ‘cost’ always means? (silence)",
+    "LRE": "V"
+  },
+  {
+    "index": "23",
+    "speaker": "T",
+    "utterance": "It means ‘opportunity cost’. Why do I emphasise that? Because people usually don’t take cost into consideration.",
+    "LRE": "V"
+  },
+  {
+    "index": "24",
+    "speaker": "T",
+    "utterance": "Because people usually don’t take cost into consideration. We can also say economic cost, opportunity cost,",
+    "LRE": "V"
+  },
+  {
+    "index": "25",
+    "speaker": "T",
+    "utterance": "Implicit cost that doesn’t require what?",
+    "LRE": "V"
+  },
+  {
+    "index": "25",
+    "speaker": "S4",
+    "utterance": "Uh, cash?",
+    "LRE": "V"
+  },
+  {
+    "index": "25",
+    "speaker": "T",
+    "utterance": "Outlay. Outlay means the amount of money you spend to buy something or start a business, okay?",
+    "LRE": "V"
+  },
+  {
+    "index": "26",
+    "speaker": "T",
+    "utterance": "So, you can say ‘implicit cost doesn’t require an outlay’ or ‘there’s no giving or receiving money’.",
+    "LRE": "V"
+  },
+  {
+    "index": "27",
+    "speaker": "T",
+    "utterance": "Outlay means the amount of money you spend to buy something or start a business, okay?",
+    "LRE": "R"
+  },
+  {
+    "index": "28",
+    "speaker": "T",
+    "utterance": "Alright, so, what is an account book?  (silence)",
+    "LRE": "R"
+  },
+  {
+    "index": "28",
+    "speaker": "T",
+    "utterance": "Something relates to accountings? So, account book is a record that all accounts are recorded. We also call it a ledger.",
+    "LRE": "R"
+  },
+  {
+    "index": "29",
+    "speaker": "S3",
+    "utterance": "…something in accountant?",
+    "LRE": "V"
+  },
+  {
+    "index": "29",
+    "speaker": "T",
+    "utterance": "Something used in accountings, you mean? An accountant is a person, 회계사잖아?",
+    "LRE": "V"
+  },
+  {
+    "index": "30",
+    "speaker": "T",
+    "utterance": "We will learn a lot, many kinds of cost, marginal cost, average total cost, average variable cost, average fixed cost, and…",
+    "LRE": "V"
+  },
+  {
+    "index": "31",
+    "speaker": "T",
+    "utterance": "There are one factory, one capital, and ten workers, ten labour.",
+    "LRE": "V"
+  },
+  {
+    "index": "32",
+    "speaker": "T",
+    "utterance": "There are one factory, one capital, and ten workers, ten labour.",
+    "LRE": "V"
+  },
+  {
+    "index": "33",
+    "speaker": "T",
+    "utterance": "If the wage of a worker is $20, the marginal product per dollar, for an additional $1.",
+    "LRE": "V"
+  },
+  {
+    "index": "34",
+    "speaker": "T",
+    "utterance": "One pencil. So, that’s a marginal product, in Korean 한계생산이거든? That’s the abbreviation I showed you many times, MP, marginal product, output.",
+    "LRE": "V"
+  },
+  {
+    "index": "35",
+    "speaker": "S5",
+    "utterance": "Mr **? Do I use constancy or constant?",
+    "LRE": "V"
+  },
+  {
+    "index": "35",
+    "speaker": "T",
+    "utterance": "It’’s ‘constant’. Constant returns to output.",
+    "LRE": "V"
+  },
+  {
+    "index": "36",
+    "speaker": "T",
+    "utterance": "What is the property whereby long term ATC becomes the same as the quantity of output changes?",
+    "LRE": "V"
+  },
+  {
+    "index": "36",
+    "speaker": "S5",
+    "utterance": "Constancy return, oh, constant returns to output?",
+    "LRE": "V"
+  },
+  {
+    "index": "36",
+    "speaker": "T",
+    "utterance": "Right. It’s constant returns to output.",
+    "LRE": "V"
+  },
+  {
+    "index": "37",
+    "speaker": "T",
+    "utterance": "What is the property whereby Long-Term ATC is the same as Quantity of output changes?",
+    "LRE": "V"
+  },
+  {
+    "index": "37",
+    "speaker": "S3",
+    "utterance": "Constancy?",
+    "LRE": "V"
+  },
+  {
+    "index": "37",
+    "speaker": "S4",
+    "utterance": "Constant return to output.",
+    "LRE": "V"
+  },
+  {
+    "index": "37",
+    "speaker": "T",
+    "utterance": "Right. It’s Constant returns to output. Plural form.",
+    "LRE": "V"
+  },
+  {
+    "index": "38",
+    "speaker": "T",
+    "utterance": "It reflects the increase in the velocity. You know what I mean? Velocity, the speed.",
+    "LRE": "V"
+  },
+  {
+    "index": "39",
+    "speaker": "T",
+    "utterance": "So, in economics, the slope here represents the MP, the marginal product.",
+    "LRE": "V"
+  },
+  {
+    "index": "40",
+    "speaker": "T",
+    "utterance": "Suppose that at this point, the top point of the slope or we can say the point that hits the highest of the graph. MP curve is the slope of MP. Try not to think mathematically.",
+    "LRE": "V"
+  },
+  {
+    "index": "41",
+    "speaker": "T",
+    "utterance": "By using the MP curve, we can draw MC curve. MC stands for? C: Marginal cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "41",
+    "speaker": "T",
+    "utterance": "Yes, marginal cost. MP and MC are related very closely.",
+    "LRE": "V"
+  },
+  {
+    "index": "42",
+    "speaker": "T",
+    "utterance": "Marginal product, MP, equals a change in TP over a change in L. You can also say that a change in TP over a change in cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "43",
+    "speaker": "T",
+    "utterance": "Marginal product, MP, equals a change in TP over a change in L. You can also say that a change in TP over a change in cost.  Labour causes cost, right?",
+    "LRE": "V"
+  },
+  {
+    "index": "44",
+    "speaker": "T",
+    "utterance": "So, the answer would be ‘a change in L over a change in TP’ or we can say ‘a change in L caused by a change in TP’.",
+    "LRE": "V"
+  },
+  {
+    "index": "45",
+    "speaker": "T",
+    "utterance": "So, when we produce products, in the beginning, marginal product is increasing but in the end, it is diminishing, decreasing.",
+    "LRE": "V"
+  },
+  {
+    "index": "46",
+    "speaker": "T",
+    "utterance": "At a certain point, employing an additional factor of production makes relatively smaller increase in products. This is the definition for the law of diminishing marginal return.",
+    "LRE": "V"
+  },
+  {
+    "index": "47",
+    "speaker": "T",
+    "utterance": "This makes the firms in the market decide to get out of the market. You know, retreat from the market",
+    "LRE": "V"
+  },
+  {
+    "index": "48",
+    "speaker": "T",
+    "utterance": "So, variable cost is related to L, labour and fixed cost is related to capital.",
+    "LRE": "V"
+  },
+  {
+    "index": "49",
+    "speaker": "T",
+    "utterance": "One is changeable, variable, and the other is fixed, which means unchangeable.",
+    "LRE": "G"
+  },
+  {
+    "index": "50",
+    "speaker": "T",
+    "utterance": "One is changeable, variable, and the other is fixed, which means unchangeable.",
+    "LRE": "V"
+  },
+  {
+    "index": "51",
+    "speaker": "T",
+    "utterance": "There’s total variable cost, a total cost that CAN be changed… and fixed cost, a cost that cannot be changed, right?",
+    "LRE": "V"
+  },
+  {
+    "index": "52",
+    "speaker": "T",
+    "utterance": "There’s total variable cost, a total cost that CAN be changed… and fixed cost, a cost that CANNOT be changed, right?",
+    "LRE": "V"
+  },
+  {
+    "index": "53",
+    "speaker": "T",
+    "utterance": "If you divide both sides by output, you can get the average cost, average total cost, ATC.",
+    "LRE": "V"
+  },
+  {
+    "index": "54",
+    "speaker": "T",
+    "utterance": "So, what I mean here is that Q stands for a quantity of output, right?",
+    "LRE": "V"
+  },
+  {
+    "index": "55",
+    "speaker": "T",
+    "utterance": "So, total cost divided by the quantity equals total variable cost, TVC, divided by Q plus TFC divided by quantity…",
+    "LRE": "V"
+  },
+  {
+    "index": "56",
+    "speaker": "T",
+    "utterance": "and this is the average variable cost which is AVC, plus AFC, the average fixed cost equals average total cost which is ATC.",
+    "LRE": "R"
+  },
+  {
+    "index": "57",
+    "speaker": "T",
+    "utterance": "and this is the average variable cost which is AVC, plus AFC, the average fixed cost equals average total cost which is ATC.",
+    "LRE": "V"
+  },
+  {
+    "index": "58",
+    "speaker": "T",
+    "utterance": "and this is the average variable cost which is AVC, plus AFC, the average fixed cost equals average total cost which is ATC.",
+    "LRE": "V"
+  },
+  {
+    "index": "59",
+    "speaker": "T",
+    "utterance": "If you divide this by Q, quantity, the quantity of product, you will get the average total cost, ATC, and the average variable cost, AVC, and then, AFC, average fixed cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "60",
+    "speaker": "T",
+    "utterance": "If you divide this by Q, the quantity of product, you will get the average total cost, ATC, and the average variable cost, AVC, and then, AFC, average fixed cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "61",
+    "speaker": "T",
+    "utterance": "If you divide this by Q, the quantity of product, you will get the average total cost, ATC, and the average variable cost, AVC, and then, AFC, average fixed cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "62",
+    "speaker": "T",
+    "utterance": "If you divide this by Q, the quantity of product, you will get the average total cost, ATC, and the average variable cost, AVC, and then, AFC, average fixed cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "63",
+    "speaker": "T",
+    "utterance": "So, we shall begin with ‘Average Variable Cost’, the variable cost of labour. Again, variable means? Changeable.",
+    "LRE": "V"
+  },
+  {
+    "index": "64",
+    "speaker": "T",
+    "utterance": "So, we shall begin with ‘Average Variable Cost’, the variable cost of labour. Again, variable means? Changeable.",
+    "LRE": "V"
+  },
+  {
+    "index": "65",
+    "speaker": "T",
+    "utterance": "But as the marginal return diminishes, I mean, when the marginal return gets smaller, MC becomes bigger, MC increases.",
+    "LRE": "V"
+  },
+  {
+    "index": "66",
+    "speaker": "T",
+    "utterance": "But as the marginal return diminishes, I mean, when the marginal return gets smaller, MC becomes bigger, MC increases.",
+    "LRE": "V"
+  },
+  {
+    "index": "67",
+    "speaker": "T",
+    "utterance": "You can clearly see that point is the lowest one of the average variable cost when MC exceeds, crosses the average variable cost. That point is the lowest point of the AVC, right?",
+    "LRE": "G"
+  },
+  {
+    "index": "68",
+    "speaker": "T",
+    "utterance": "You can clearly see that point is the lowest one of the average variable cost when MC exceeds, crosses the average variable cost. That point is the lowest point of the AVC, right?",
+    "LRE": "V"
+  },
+  {
+    "index": "69",
+    "speaker": "T",
+    "utterance": "However, as the MC exceeds AVC, AVC starts to increase. That’s the relationship between the MC curve, marginal cost and average variable cost.",
+    "LRE": "D"
+  },
+  {
+    "index": "70",
+    "speaker": "T",
+    "utterance": "Second, AFC. AFC is average fixed cost and in economics, fixed here means it is constant regardless of quantity so, the graph of total fixed cost is horizontal at all output.",
+    "LRE": "D"
+  },
+  {
+    "index": "71",
+    "speaker": "T",
+    "utterance": "Second, AFC. AFC is average fixed cost and in economics, fixed here means it is CONSTANT regardless of quantity. So, the graph of total fixed cost is horizontal at all output.",
+    "LRE": "V"
+  },
+  {
+    "index": "72",
+    "speaker": "T",
+    "utterance": "But AFC is TFC divided by Q. TFC is fixed, constant but Q is getting bigger as the output increases.",
+    "LRE": "V"
+  },
+  {
+    "index": "73",
+    "speaker": "T",
+    "utterance": "The gap between ATC and AVC is?",
+    "LRE": "V"
+  },
+  {
+    "index": "73",
+    "speaker": "S11",
+    "utterance": "Average fixed cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "73",
+    "speaker": "T",
+    "utterance": "Yes, AFC.",
+    "LRE": "V"
+  },
+  {
+    "index": "74",
+    "speaker": "T",
+    "utterance": "The gap between ATC and AVC is reduced, getting smaller.",
+    "LRE": "V"
+  },
+  {
+    "index": "75",
+    "speaker": "T",
+    "utterance": "Secondly, the marginal cost crosses the lowest points of the average total cost and the average variable cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "75",
+    "speaker": "S11",
+    "utterance": "‘Marginal’ 은 형용사고, ‘average’는 명사 아니에요? (‘marginal’ is an adjective and ‘Average’ is a noun, isn’t it?)",
+    "LRE": "V"
+  },
+  {
+    "index": "75",
+    "speaker": "T",
+    "utterance": "No, they are both adjectives.",
+    "LRE": "V"
+  },
+  {
+    "index": "75",
+    "speaker": "T",
+    "utterance": "When MC is lower than ATC or AVC, ATC or AVC falls, decreases but when MC is greater than ATC or AVC, then, ATC or AVC is rising, increases. AFC, which is average fixed cost keeps falling as the output increases.",
+    "LRE": "V"
+  },
+  {
+    "index": "76",
+    "speaker": "T",
+    "utterance": "When MC is lower than ATC or AVC, ATC or AVC falls, decreases but when MC is greater than ATC or AVC, then, ATC or AVC is rising, increases. AFC, which is average fixed cost keeps falling as the output increases.",
+    "LRE": "V"
+  },
+  {
+    "index": "77",
+    "speaker": "T",
+    "utterance": "When MC is lower than ATC or AVC, ATC or AVC falls, decreases but when MC is greater than ATC or AVC, then, ATC or AVC is rising, increases. AFC, which is average fixed cost keeps falling as the output increases.",
+    "LRE": "V"
+  },
+  {
+    "index": "78",
+    "speaker": "T",
+    "utterance": "So, as you can see, the gap between ATC and AVC is getting closer in this diagram and it eventually makes a decrease of AFC… makes AFC keep falling.",
+    "LRE": "D"
+  },
+  {
+    "index": "79",
+    "speaker": "T",
+    "utterance": "In short-run, capital is fixed whereas labour is variable, and in the long-run, all factors, all inputs, are variable.",
+    "LRE": "V"
+  },
+  {
+    "index": "80",
+    "speaker": "T",
+    "utterance": "If you divide both sides by Q… Q stands for? C: Quantity.",
+    "LRE": "V"
+  },
+  {
+    "index": "80",
+    "speaker": "T",
+    "utterance": "Quantity that is produced.",
+    "LRE": "V"
+  },
+  {
+    "index": "81",
+    "speaker": "T",
+    "utterance": "If you divide both sides by Q… Q stands for? C: Quantity.",
+    "LRE": "V"
+  },
+  {
+    "index": "81",
+    "speaker": "T",
+    "utterance": "Quantity that is produced.",
+    "LRE": "V"
+  },
+  {
+    "index": "82",
+    "speaker": "T",
+    "utterance": "Quantity that is produced. We can get average total cost…",
+    "LRE": "V"
+  },
+  {
+    "index": "82",
+    "speaker": "S4",
+    "utterance": "ATC?",
+    "LRE": "V"
+  },
+  {
+    "index": "82",
+    "speaker": "T",
+    "utterance": "yes, yes. ATC, average total cost.",
+    "LRE": "V"
+  },
+  {
+    "index": "83",
+    "speaker": "T",
+    "utterance": "From the MC curve, you can draw the AVC curve and AFC keeps falling because TFC is constant, it’s fixed.",
+    "LRE": "V"
+  },
+  {
+    "index": "83",
+    "speaker": "T",
+    "utterance": "If you sum, add up all the AVC and AFC, you can draw the ATC.",
+    "LRE": ""
+  },
+  {
+    "index": "84",
+    "speaker": "T",
+    "utterance": "…capital. Worker here means labour, right?",
+    "LRE": "R"
+  },
+  {
+    "index": "85",
+    "speaker": "T",
+    "utterance": "Why is that? In the short run, your capital is fixed, right? You can’t change your capital.",
+    "LRE": "R"
+  },
+  {
+    "index": "86",
+    "speaker": "T",
+    "utterance": "But in the long run, you can choose to rent your machine instead or hire more workers. So, you get to choose two options to reduce the cost, letting your machines to be rented or hire more employees.",
+    "LRE": ""
+  },
+  {
+    "index": "87",
+    "speaker": "T",
+    "utterance": "So, which means, if you have your firm, factory which has one machine, if you change the number of workers, your output will change along the SATC curve.",
+    "LRE": "V"
+  },
+  {
+    "index": "88",
+    "speaker": "T",
+    "utterance": "So, SATC shifts. In this diagram, it shifts, moves to the right and down.",
+    "LRE": "R"
+  },
+  {
+    "index": "89",
+    "speaker": "T",
+    "utterance": "So, which means, you only make 1,000 ps with one machine but more ps with one more machine. The full capacity, a limit of production, will increase.",
+    "LRE": "V"
+  },
+  {
+    "index": "90",
+    "speaker": "T",
+    "utterance": "Because there are more machines available, it makes the production more efficiently. Efficiently here means it can produce more products with less cost. It makes SATC decreases.",
+    "LRE": "G"
+  },
+  {
+    "index": "91",
+    "speaker": "T",
+    "utterance": "So, the SATC curve reflects this and is shifted down, downwards.",
+    "LRE": "R"
+  },
+  {
+    "index": "92",
+    "speaker": "T",
+    "utterance": "Suppose that 5 j clean the building. If each J had its own broom and mop, mop. What’s mop? (silence)",
+    "LRE": "G"
+  },
+  {
+    "index": "92",
+    "speaker": "T",
+    "utterance": "You know… the thing to wipe the floor with a long stick. Mopping….",
+    "LRE": "G"
+  },
+  {
+    "index": "93",
+    "speaker": "T",
+    "utterance": "In conclusion, with larger amount of capital, productivity rises and the average total cost falls. We call this, a decrease in ATC in the long run as economies of scale. In Korean, it’s 규모의 경제.",
+    "LRE": "R"
+  },
+  {
+    "index": "94",
+    "speaker": "T",
+    "utterance": "And ultimately, the companies will?",
+    "LRE": "V"
+  },
+  {
+    "index": "94",
+    "speaker": "S6",
+    "utterance": "규모의 경제를 실현한다?",
+    "LRE": "V"
+  },
+  {
+    "index": "94",
+    "speaker": "T",
+    "utterance": "Can you say that in English?",
+    "LRE": "V"
+  },
+  {
+    "index": "94",
+    "speaker": "S6",
+    "utterance": "…in English?",
+    "LRE": "V"
+  },
+  {
+    "index": "94",
+    "speaker": "T",
+    "utterance": "Yes.",
+    "LRE": "V"
+  },
+  {
+    "index": "94",
+    "speaker": "S6",
+    "utterance": "Ah, companies can… get economic scale?",
+    "LRE": "V"
+  },
+  {
+    "index": "94",
+    "speaker": "T",
+    "utterance": "Good. Companies can achieve economies of scale by lowering costs. Alternately, you can say, economies of scale occur in the companies.",
+    "LRE": "V"
+  },
+  {
+    "index": "95",
+    "speaker": "T",
+    "utterance": "So, the scale, we say that the scale of something is big or small, right? In economics, it’s not the thing that use to measure something’s weight.  Perhaps I reckon you guys have heard this word from somewhere before from the news… No?",
+    "LRE": "R"
+  },
+  {
+    "index": "96",
+    "speaker": "T",
+    "utterance": "There is a formal definition of economies of scale. It’s the property whereby long-run average total cost stays the same, remains the same, as the quantity of output changes.",
+    "LRE": "V"
+  },
+  {
+    "index": "97",
+    "speaker": "T",
+    "utterance": "So, in terms of the long run, if you increase the production, AVC decreases. The best example would be engraving. What’s an engraving in Korean?",
+    "LRE": "V"
+  },
+  {
+    "index": "97",
+    "speaker": "S6",
+    "utterance": "이렇게 찍어내는거?",
+    "LRE": "V"
+  },
+  {
+    "index": "97",
+    "speaker": "T",
+    "utterance": "판화. Engraving. You can print the same picture by just stamping them, right?",
+    "LRE": "V"
+  },
+  {
+    "index": "98",
+    "speaker": "T",
+    "utterance": "Because of the decrease of SATC stops, at this point if a firm expands the scale of output, production, it raises the full capacity.",
+    "LRE": "V"
+  },
+  {
+    "index": "99",
+    "speaker": "T",
+    "utterance": "Constant means not changing, we all know that. But what about returns? (silence)",
+    "LRE": "V"
+  },
+  {
+    "index": "99",
+    "speaker": "T",
+    "utterance": "What you take back, what you earn from the production.",
+    "LRE": "V"
+  },
+  {
+    "index": "100",
+    "speaker": "T",
+    "utterance": "Constant means not changing, we all know that. But what about returns? (silence)",
+    "LRE": "V"
+  },
+  {
+    "index": "100",
+    "speaker": "T",
+    "utterance": "What you take back, what you earn from the production.",
+    "LRE": "V"
+  },
+  {
+    "index": "101",
+    "speaker": "T",
+    "utterance": "What you take back, what you earn from the production.",
+    "LRE": "V"
+  },
+  {
+    "index": "101",
+    "speaker": "S8",
+    "utterance": "So… what that means, actually?",
+    "LRE": "V"
+  },
+  {
+    "index": "101",
+    "speaker": "T",
+    "utterance": "So, the formal definition (of constant returns to scale of output) is the property whereby long-run average total cost rises as the quantity of output increases.",
+    "LRE": "V"
+  },
+  {
+    "index": "102",
+    "speaker": "T",
+    "utterance": "So, it causes the increase in ATC and we call this as diseconomies of scale and in Korean, 규모의불경제 혹은 비경제. So, Diseconomies of scale mean that the property whereby long-run average total cost rises as the quantity of output increases.",
+    "LRE": "V"
+  },
+  {
+    "index": "103",
+    "speaker": "T",
+    "utterance": "There are numerous SATCs and if we draw the lowest point, well, it’s the vertex. Have you ever heard? It’s the endpoint of this U-shaped curve.",
+    "LRE": "V"
+  },
+  {
+    "index": "103",
+    "speaker": "T",
+    "utterance": "SATC cannot be lower than LATC and this forms a surrounding curve, more professional word for this is, envelope.",
+    "LRE": "V"
+  },
+  {
+    "index": "104",
+    "speaker": "T",
+    "utterance": "SATC cannot be lower than LATC and this forms a surrounding curve, more professional word for this is, envelope, 포락선이라고 해요. 포 for 포위하다. So, surrounding means it sort of covers all the small ATCs together, surrounding curve.",
+    "LRE": "V"
+  },
+  {
+    "index": "105",
+    "speaker": "T",
+    "utterance": "Question number 2. Your aunt is thinking of opening a hardware store. She estimates [...] (A). define an opportunity cost. What should we do here?",
+    "LRE": "V"
+  },
+  {
+    "index": "105",
+    "speaker": "S8",
+    "utterance": "…to find how much is it?",
+    "LRE": "V"
+  },
+  {
+    "index": "106",
+    "speaker": "T",
+    "utterance": "Well, it’s asking us to define it, the word.",
+    "LRE": "R"
+  },
+  {
+    "index": "107",
+    "speaker": "T",
+    "utterance": "Question number 2. Your aunt is thinking of opening a hardware store. She estimates [...] a. define an opportunity cost. How much is it? Oh, wait, it’s asking us to define it, the word.",
+    "LRE": "D"
+  },
+  {
+    "index": "108",
+    "speaker": "T",
+    "utterance": "And OC is the sum of two things.",
+    "LRE": "D"
+  },
+  {
+    "index": "108",
+    "speaker": "S7",
+    "utterance": "Implicit cost…",
+    "LRE": "D"
+  },
+  {
+    "index": "108",
+    "speaker": "T",
+    "utterance": "Implicit cost and…?",
+    "LRE": "D"
+  },
+  {
+    "index": "108",
+    "speaker": "S8",
+    "utterance": "Explicit [ekˈsplɪsɪt] cost…",
+    "LRE": "D"
+  },
+  {
+    "index": "108",
+    "speaker": "T",
+    "utterance": "Yes, explicit [ɪkˈsplɪsɪt] cost.",
+    "LRE": "D"
+  },
+  {
+    "index": "109",
+    "speaker": "T",
+    "utterance": "Yes, explicit [ɪkˈsplɪsɪt] cost. That’s the opportunity cost, in other word, economic cost.",
+    "LRE": ""
+  },
+  {
+    "index": "110",
+    "speaker": "T",
+    "utterance": "If she owns it, she can sell five hundred and ten thousand dollars of merchandise in a year, but how about considering only the explicit cost? The explicit cost is only 500,000 dollars. Should she still open the store?",
+    "LRE": ""
+  },
+  {
+    "index": "110",
+    "speaker": "S5",
+    "utterance": "No?",
+    "LRE": ""
+  },
+  {
+    "index": "110",
+    "speaker": "S4",
+    "utterance": "Yes?",
+    "LRE": ""
+  },
+  {
+    "index": "110",
+    "speaker": "T",
+    "utterance": "Alright, I see some of you don’t understand my question. So, what I mean by ‘open’ is starting a business in the first place, not open a store every day.",
+    "LRE": ""
+  },
+  {
+    "index": "114",
+    "speaker": "T",
+    "utterance": "What’s gonna happen to the average total cost over time?",
+    "LRE": ""
+  },
+  {
+    "index": "114",
+    "speaker": "S4",
+    "utterance": "Decrease.",
+    "LRE": ""
+  },
+  {
+    "index": "114",
+    "speaker": "S8",
+    "utterance": "Go down.",
+    "LRE": ""
+  },
+  {
+    "index": "114",
+    "speaker": "T",
+    "utterance": "Yes, it decreases or will decrease.",
+    "LRE": ""
+  },
+  {
+    "index": "116",
+    "speaker": "T",
+    "utterance": "At the beginning, ATC decreases and eventually it increases. So, if you draw the graph, the ATC, it will be…?",
+    "LRE": ""
+  },
+  {
+    "index": "116",
+    "speaker": "S3",
+    "utterance": "…reverted?",
+    "LRE": ""
+  },
+  {
+    "index": "116",
+    "speaker": "T",
+    "utterance": "…inverted U-shape, here.",
+    "LRE": ""
+  },
+  {
+    "index": "117",
+    "speaker": "T",
+    "utterance": "Go on to number 4. What is the definition of marginal product?  (silence)",
+    "LRE": ""
+  },
+  {
+    "index": "117",
+    "speaker": "T",
+    "utterance": "Change in…?",
+    "LRE": ""
+  },
+  {
+    "index": "117",
+    "speaker": "S3",
+    "utterance": "…product?",
+    "LRE": ""
+  },
+  {
+    "index": "117",
+    "speaker": "T",
+    "utterance": "Total product divided by? (silence)",
+    "LRE": ""
+  },
+  {
+    "index": "117",
+    "speaker": "T",
+    "utterance": "L or cost.",
+    "LRE": ""
+  },
+  {
+    "index": "118",
+    "speaker": "T",
+    "utterance": "Okay. Any volunteer for number 4?",
+    "LRE": ""
+  },
+  {
+    "index": "118",
+    "speaker": "S9",
+    "utterance": "Uh (.) the companies get dis, de-economy in the beginning?",
+    "LRE": ""
+  },
+  {
+    "index": "118",
+    "speaker": "T",
+    "utterance": "Yes, yes. So, companies experience diseconomies of scale, right?",
+    "LRE": ""
+  },
+  {
+    "index": "118",
+    "speaker": "S9",
+    "utterance": "Yes.",
+    "LRE": ""
+  },
+  {
+    "index": "119",
+    "speaker": "T",
+    "utterance": "Again, we need to calculate the OC for this company. How do we do it? Can you explain?",
+    "LRE": ""
+  },
+  {
+    "index": "119",
+    "speaker": "S9",
+    "utterance": "So, first, Can I say ‘plus of’?",
+    "LRE": ""
+  },
+  {
+    "index": "119",
+    "speaker": "T",
+    "utterance": "Pardon?",
+    "LRE": ""
+  },
+  {
+    "index": "119",
+    "speaker": "S9",
+    "utterance": "Can I say like, ‘OC is plus of this and that’?",
+    "LRE": ""
+  },
+  {
+    "index": "119",
+    "speaker": "T",
+    "utterance": "Well, no. But we can say ‘OC is sum of implicit and explicit costs’.",
+    "LRE": ""
+  },
+  {
+    "index": "119",
+    "speaker": "S9",
+    "utterance": "Got it.",
+    "LRE": ""
+  },
+  {
+    "index": "120",
+    "speaker": "T",
+    "utterance": "C, fill in the blanks with average total cost and we call that ATC. ATC equals total cost divided by quantity.",
+    "LRE": ""
+  },
+  {
+    "index": "121",
+    "speaker": "T",
+    "utterance": "What stands for quantity?",
+    "LRE": ""
+  },
+  {
+    "index": "121",
+    "speaker": "S2",
+    "utterance": "Q?",
+    "LRE": ""
+  },
+  {
+    "index": "121",
+    "speaker": "T",
+    "utterance": "Quantity of…?",
+    "LRE": ""
+  },
+  {
+    "index": "121",
+    "speaker": "S2",
+    "utterance": "…output?",
+    "LRE": ""
+  },
+  {
+    "index": "122",
+    "speaker": "T",
+    "utterance": "Did I say ‘what’ stands for quantity? What does Q stands for…?",
+    "LRE": ""
+  },
+  {
+    "index": "122",
+    "speaker": "S2",
+    "utterance": "…quantity.",
+    "LRE": ""
+  },
+  {
+    "index": "122",
+    "speaker": "T",
+    "utterance": "Yes, quantity of product is correct. The output is also fine.",
+    "LRE": ""
+  },
+  {
+    "index": "123",
+    "speaker": "T",
+    "utterance": "What does Q stand for…?",
+    "LRE": ""
+  },
+  {
+    "index": "123",
+    "speaker": "S2",
+    "utterance": "…quantity.",
+    "LRE": ""
+  },
+  {
+    "index": "123",
+    "speaker": "T",
+    "utterance": "Yes, quantity, actually, quantity of product is correct. The output is also fine.",
+    "LRE": ""
+  },
+  {
+    "index": "124",
+    "speaker": "T",
+    "utterance": "What stands for quantity?",
+    "LRE": ""
+  },
+  {
+    "index": "124",
+    "speaker": "S2",
+    "utterance": "Q?",
+    "LRE": ""
+  },
+  {
+    "index": "124",
+    "speaker": "T",
+    "utterance": "Quantity of…?",
+    "LRE": ""
+  },
+  {
+    "index": "124",
+    "speaker": "S2",
+    "utterance": "…output?",
+    "LRE": ""
+  },
+  {
+    "index": "124",
+    "speaker": "T",
+    "utterance": "Did I say ‘what’ stands for quantity? What does Q stands for…?",
+    "LRE": ""
+  },
+  {
+    "index": "124",
+    "speaker": "S2",
+    "utterance": "…quantity.",
+    "LRE": ""
+  },
+  {
+    "index": "124",
+    "speaker": "T",
+    "utterance": "Yes, quantity of product is correct. The output is also fine.",
+    "LRE": ""
+  },
+  {
+    "index": "125",
+    "speaker": "T",
+    "utterance": "So, the change in total cost… if you compare the column of marginal product and the column of marginal cost, they are…?",
+    "LRE": ""
+  },
+  {
+    "index": "125",
+    "speaker": "S5",
+    "utterance": "...inversed?",
+    "LRE": ""
+  },
+  {
+    "index": "125",
+    "speaker": "T",
+    "utterance": "...reversed? Oh, yes, also inverted, right.",
+    "LRE": ""
+  },
+  {
+    "index": "126",
+    "speaker": "S8",
+    "utterance": "MC and MP are related.",
+    "LRE": ""
+  },
+  {
+    "index": "126",
+    "speaker": "T",
+    "utterance": "Yes, they are related, MC is reciprocal of MP.",
+    "LRE": ""
+  },
+  {
+    "index": "127",
+    "speaker": "S9",
+    "utterance": "For those who doesn’t, who don’t get how to figure this out, if there’s add something, you should, you can just divide them with quantity…",
+    "LRE": ""
+  },
+  {
+    "index": "127",
+    "speaker": "T",
+    "utterance": "Right, you can simply divide them by quantity.",
+    "LRE": ""
+  },
+  {
+    "index": "128",
+    "speaker": "S9",
+    "utterance": "For those who doesn’t, who don’t get how to figure this out, if there’s add something, you should, you can just divide them with quantity…",
+    "LRE": ""
+  },
+  {
+    "index": "128",
+    "speaker": "T",
+    "utterance": "Right, you can simply divide them by quantity.",
+    "LRE": ""
+  },
+  {
+    "index": "129",
+    "speaker": "T",
+    "utterance": "So, we need to find an efficient point, right? That’s when ATC is…?",
+    "LRE": ""
+  },
+  {
+    "index": "129",
+    "speaker": "S5",
+    "utterance": "...minimum?",
+    "LRE": ""
+  },
+  {
+    "index": "129",
+    "speaker": "T",
+    "utterance": "...yes, minimum value. When it’s at the endpoint, vertex of U, the very lowest point.",
+    "LRE": ""
+  },
+  {
+    "index": "130",
+    "speaker": "T",
+    "utterance": "So, we need to find an efficient point, right? That’s when ATC is…?",
+    "LRE": ""
+  },
+  {
+    "index": "130",
+    "speaker": "S5",
+    "utterance": "...minimum?",
+    "LRE": ""
+  },
+  {
+    "index": "130",
+    "speaker": "T",
+    "utterance": "...yes, minimum value. When it’s at the endpoint, vertex of U, the very lowest point.",
+    "LRE": ""
+  },
+  {
+    "index": "131",
+    "speaker": "T",
+    "utterance": "How far does the graph shift? More than 300 or less than that?",
+    "LRE": ""
+  },
+  {
+    "index": "131",
+    "speaker": "S8",
+    "utterance": "Less.",
+    "LRE": ""
+  },
+  {
+    "index": "131",
+    "speaker": "T",
+    "utterance": "Yes, why?",
+    "LRE": ""
+  },
+  {
+    "index": "131",
+    "speaker": "S8",
+    "utterance": "Because AFC is fixed cost over quantity?",
+    "LRE": ""
+  },
+  {
+    "index": "131",
+    "speaker": "T",
+    "utterance": "Yes, because AFC is FC divided by Q.",
+    "LRE": ""
+  },
+  {
+    "index": "132",
+    "speaker": "T",
+    "utterance": "Yes. Everyone understood? So, does the graph shifts more than 300 or less than 300? C: Less than 300.",
+    "LRE": ""
+  },
+  {
+    "index": "132",
+    "speaker": "T",
+    "utterance": "Yes, less than 300. Because it’s divided by? C: Quantity.",
+    "LRE": ""
+  },
+  {
+    "index": "132",
+    "speaker": "T",
+    "utterance": "Right, Q, quantity of products.",
+    "LRE": ""
+  },
+  {
+    "index": "134",
+    "speaker": "T",
+    "utterance": "But the graph you drew seems a bit odd… in this graph, two curves should be?",
+    "LRE": ""
+  },
+  {
+    "index": "134",
+    "speaker": "S5",
+    "utterance": "...far?",
+    "LRE": ""
+  },
+  {
+    "index": "134",
+    "speaker": "T",
+    "utterance": "Yes, further away.",
+    "LRE": ""
+  },
+  {
+    "index": "135",
+    "speaker": "S9",
+    "utterance": "We can see that marginal cost curve is below the average total cost curve when the average total cost falls. And it is when the output is less than 4. Marginal cost curve is above the total cost when the ATC curve is rising. And we can know that it is when the output is more than 4.",
+    "LRE": ""
+  },
+  {
+    "index": "135",
+    "speaker": "T",
+    "utterance": "Yes, very good. So, MC curve goes below the ATC curve when ATC declines, and when ATC rises, MC curve goes above the total cost curve.",
+    "LRE": ""
+  },
+  {
+    "index": "136",
+    "speaker": "S9",
+    "utterance": "We can see that marginal cost curve is below the average total cost curve when the average total cost falls. And it is when the output is less than 4. Marginal cost curve is above the total cost when the ATC curve is rising. And we can know that it is when the output is more than 4.",
+    "LRE": ""
+  },
+  {
+    "index": "136",
+    "speaker": "T",
+    "utterance": "Yes, very good. So, MC curve goes below the ATC curve when ATC curve declines, and when ATC rises, MC curve goes above the total cost curve.",
+    "LRE": ""
+  },
+  {
+    "index": "137",
+    "speaker": "S9",
+    "utterance": "We can see that marginal cost curve is below the average total cost curve when the average total cost falls. And it is when the output is less than 4. Marginal cost curve is above the total cost when the ATC curve is rising. And we can know that it is when the output is more than 4.",
+    "LRE": ""
+  },
+  {
+    "index": "137",
+    "speaker": "T",
+    "utterance": "Yes, very good. So, MC curve is below the ATC curve when ATC curve declines, and when ATC increases, MC curve goes above the total cost curve.",
+    "LRE": ""
+  },
+  {
+    "index": "138",
+    "speaker": "T",
+    "utterance": "Well, if you look at the example from the previous lesson, MC curve should always cross the lowest point of AVC curve, right?",
+    "LRE": ""
+  },
+  {
+    "index": "138",
+    "speaker": "S5",
+    "utterance": "Yes?",
+    "LRE": ""
+  },
+  {
+    "index": "138",
+    "speaker": "T",
+    "utterance": "But your graph is different to that, right? Can you explain the reason to us?",
+    "LRE": ""
+  },
+  {
+    "index": "138",
+    "speaker": "S5",
+    "utterance": "Pardon?",
+    "LRE": ""
+  },
+  {
+    "index": "138",
+    "speaker": "T",
+    "utterance": "Alright, so, what I’m saying is that usually MC curve should be U-shaped, right? But yours doesn’t look like U-shape although you got every point right. Why do you think is that?",
+    "LRE": ""
+  },
+  {
+    "index": "139",
+    "speaker": "T",
+    "utterance": "We will be working on this number. What does MC stand for? C: Marginal cost.",
+    "LRE": ""
+  },
+  {
+    "index": "139",
+    "speaker": "T",
+    "utterance": "Good.",
+    "LRE": ""
+  },
+  {
+    "index": "140",
+    "speaker": "T",
+    "utterance": "what’s the ATC? C: Average total cost.",
+    "LRE": ""
+  },
+  {
+    "index": "141",
+    "speaker": "T",
+    "utterance": "What does D and T stand for? C: murmuring",
+    "LRE": ""
+  },
+  {
+    "index": "142",
+    "speaker": "T",
+    "utterance": "What about MR? C: Marginal revenue.",
+    "LRE": ""
+  },
+  {
+    "index": "142",
+    "speaker": "T",
+    "utterance": "Marginal revenue, excellent.",
+    "LRE": ""
+  },
+  {
+    "index": "143",
+    "speaker": "T",
+    "utterance": "Marginal revenue, excellent. And if we go on to the next page, ATC, average total cost.",
+    "LRE": ""
+  },
+  {
+    "index": "144",
+    "speaker": "T",
+    "utterance": "What’s the Q? C: Quantity.",
+    "LRE": ""
+  },
+  {
+    "index": "145",
+    "speaker": "T",
+    "utterance": "What’s this symbol?",
+    "LRE": ""
+  },
+  {
+    "index": "145",
+    "speaker": "S3",
+    "utterance": "Divide.",
+    "LRE": ""
+  },
+  {
+    "index": "145",
+    "speaker": "T",
+    "utterance": "Division. Do you guys know the basic division? C: Yes.",
+    "LRE": ""
+  },
+  {
+    "index": "146",
+    "speaker": "T",
+    "utterance": "Alright, so, what we are gonna do is kinda just dividing out through those things and to get it, figure out, economies of scale versus diseconomies of scale.",
+    "LRE": ""
+  },
+  {
+    "index": "147",
+    "speaker": "T",
+    "utterance": "If you look at the graph of the product a, it goes linear, straight up and nice.",
+    "LRE": ""
+  },
+  {
+    "index": "148",
+    "speaker": "T",
+    "utterance": "What does ‘corrective’ mean here?",
+    "LRE": ""
+  },
+  {
+    "index": "148",
+    "speaker": "S4",
+    "utterance": "To fix…?",
+    "LRE": ""
+  },
+  {
+    "index": "148",
+    "speaker": "T",
+    "utterance": "Yes, yes.",
+    "LRE": ""
+  },
+  {
+    "index": "149",
+    "speaker": "T",
+    "utterance": "The benefits of corrective taxes as a way to reduce pollution have to be raised against the deadweight loss these practices cause. What ‘corrective’ mean here?",
+    "LRE": ""
+  },
+  {
+    "index": "149",
+    "speaker": "S7",
+    "utterance": "make it right…?",
+    "LRE": ""
+  },
+  {
+    "index": "149",
+    "speaker": "T",
+    "utterance": "Yes, yes. So, it’s a tax to deal with any negative externalities caused by firms.",
+    "LRE": ""
+  },
+  {
+    "index": "150",
+    "speaker": "T",
+    "utterance": "So, what’s important is… pollution, what do we call such an effect?",
+    "LRE": ""
+  },
+  {
+    "index": "150",
+    "speaker": "S6",
+    "utterance": "Dec…부정적 외부 효과",
+    "LRE": ""
+  },
+  {
+    "index": "150",
+    "speaker": "T",
+    "utterance": "Can you say that in English?",
+    "LRE": ""
+  },
+  {
+    "index": "150",
+    "speaker": "S6",
+    "utterance": "Uh… Negative…",
+    "LRE": ""
+  },
+  {
+    "index": "150",
+    "speaker": "T",
+    "utterance": "It’s a negative, and?",
+    "LRE": ""
+  },
+  {
+    "index": "150",
+    "speaker": "S6",
+    "utterance": "Nevatige…",
+    "LRE": ""
+  },
+  {
+    "index": "150",
+    "speaker": "T",
+    "utterance": "Externality, right? Pollution is a negative externality.",
+    "LRE": ""
+  },
+  {
+    "index": "151",
+    "speaker": "T",
+    "utterance": "When there’s a product that has a negative externality, this demand curve represents marginal…? (silence)",
+    "LRE": ""
+  },
+  {
+    "index": "151",
+    "speaker": "T",
+    "utterance": "Three words. Marginal…?",
+    "LRE": ""
+  },
+  {
+    "index": "151",
+    "speaker": "S1",
+    "utterance": "Private.",
+    "LRE": ""
+  },
+  {
+    "index": "151",
+    "speaker": "T",
+    "utterance": "Yes, private. And then?",
+    "LRE": ""
+  },
+  {
+    "index": "151",
+    "speaker": "S2",
+    "utterance": "Benefit…?",
+    "LRE": ""
+  },
+  {
+    "index": "151",
+    "speaker": "T",
+    "utterance": "Benefit? Did you say benefit? Right, marginal private benefit. Or you can say value instead of benefit. So, the three words are marginal private value or marginal private utility.",
+    "LRE": ""
+  },
+  {
+    "index": "152",
+    "speaker": "T",
+    "utterance": "Or you can say value instead of benefit. So, the three words are marginal private value or marginal private utility. Or could be happiness, right? Utility, value, and benefit. They are all correct",
+    "LRE": ""
+  },
+  {
+    "index": "153",
+    "speaker": "T",
+    "utterance": "Or you can say value. So, the three words are marginal private value or marginal private utility.",
+    "LRE": ""
+  },
+  {
+    "index": "154",
+    "speaker": "T",
+    "utterance": "So, the three words are marginal private value or marginal private utility. Or it could be benefit, right? Utility, value, and benefit. They are all correct, and they can be mixedly used.",
+    "LRE": ""
+  },
+  {
+    "index": "155",
+    "speaker": "T",
+    "utterance": "That means, by weighing, comparing the effects that we get from reducing the pollution and the deadweight loss, the government decides the amount of a tax.",
+    "LRE": ""
+  },
+  {
+    "index": "156",
+    "speaker": "T",
+    "utterance": "That means, by weighing, comparing the effects that we get from reducing the pollution and the deadweight loss, the government decides the amount of a tax. But what I’m saying is that reducing pollution means…?",
+    "LRE": ""
+  },
+  {
+    "index": "156",
+    "speaker": "S",
+    "utterance": "...less deadweight loss…?",
+    "LRE": ""
+  },
+  {
+    "index": "156",
+    "speaker": "T",
+    "utterance": "Right, reducing deadweight loss. So, the sentence is incorrect.",
+    "LRE": ""
+  },
+  {
+    "index": "157",
+    "speaker": "T",
+    "utterance": "So, who’s responsible for the corrective tax?",
+    "LRE": ""
+  },
+  {
+    "index": "157",
+    "speaker": "S",
+    "utterance": "Firms?",
+    "LRE": ""
+  },
+  {
+    "index": "157",
+    "speaker": "T",
+    "utterance": "What did they do? Because they…?",
+    "LRE": ""
+  },
+  {
+    "index": "157",
+    "speaker": "S",
+    "utterance": "Uh, because they did bad things?",
+    "LRE": ""
+  },
+  {
+    "index": "157",
+    "speaker": "T",
+    "utterance": "Yes, ** just got the answer. Anyone who causes a negative externality or produces demerit goods in production or consumption.",
+    "LRE": ""
+  },
+  {
+    "index": "158",
+    "speaker": "T",
+    "utterance": "Suppose that, in this market, there is a positive externality. Which curve shifts when there’s a positive externality?",
+    "LRE": ""
+  },
+  {
+    "index": "158",
+    "speaker": "S1",
+    "utterance": "Right one.",
+    "LRE": ""
+  },
+  {
+    "index": "158",
+    "speaker": "T",
+    "utterance": "You mean the demand one or… supply one?",
+    "LRE": ""
+  },
+  {
+    "index": "158",
+    "speaker": "S1",
+    "utterance": "Huh?",
+    "LRE": ""
+  },
+  {
+    "index": "158",
+    "speaker": "T",
+    "utterance": "Which, what curve would shift?",
+    "LRE": ""
+  },
+  {
+    "index": "158",
+    "speaker": "S1",
+    "utterance": "D…",
+    "LRE": ""
+  },
+  {
+    "index": "158",
+    "speaker": "S2",
+    "utterance": "Supply?",
+    "LRE": ""
+  },
+  {
+    "index": "158",
+    "speaker": "T",
+    "utterance": "Actually, both. When there’s a positive externality, the demand curve will go like this and this one, the supply curve, will go downwards.",
+    "LRE": ""
+  },
+  {
+    "index": "159",
+    "speaker": "T",
+    "utterance": "Actually, both. When there’s a positive externality, the demand curve will go like this and this one, the supply curve, will go downwards.",
+    "LRE": ""
+  },
+  {
+    "index": "160",
+    "speaker": "T",
+    "utterance": "...her welfare will get…? Anyone?",
+    "LRE": ""
+  },
+  {
+    "index": "160",
+    "speaker": "S1",
+    "utterance": "Teacher, what’s welfare?",
+    "LRE": ""
+  },
+  {
+    "index": "160",
+    "speaker": "T",
+    "utterance": "Yes, welfare, to live well, healthy, happily. Will her welfare get better or what?",
+    "LRE": ""
+  },
+  {
+    "index": "160",
+    "speaker": "S2",
+    "utterance": "...I think worse.",
+    "LRE": ""
+  },
+  {
+    "index": "160",
+    "speaker": "T",
+    "utterance": "Right, it will get worse.",
+    "LRE": ""
+  },
+  {
+    "index": "161",
+    "speaker": "S",
+    "utterance": "… A. What is the total cost for pollution reduction in this situation? B. How much higher would the cost of pollution reduction be if the firm [pɜːrm] permits the trades? And this is the same table in your textbook. So, number a, the firm [pɜːrm] C permits the trades because… the firm [fɜːrm] C as you can…",
+    "LRE": ""
+  },
+  {
+    "index": "161",
+    "speaker": "T",
+    "utterance": "**, how do we pronounce ‘firm’?",
+    "LRE": ""
+  },
+  {
+    "index": "161",
+    "speaker": "S",
+    "utterance": "Firm [pɜːrm]?",
+    "LRE": ""
+  },
+  {
+    "index": "161",
+    "speaker": "T",
+    "utterance": "Firm [fɜːrm], firm. The /f/ sound.",
+    "LRE": ""
+  },
+  {
+    "index": "161",
+    "speaker": "S",
+    "utterance": "Firm [fɜːrm]? Okay.",
+    "LRE": ""
+  }
+]

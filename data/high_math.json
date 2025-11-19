@@ -1,0 +1,1550 @@
+[
+  {
+    "index": "1",
+    "speaker": "S1",
+    "utterance": "Both domain is…",
+    "LRE": "G"
+  },
+  {
+    "index": "1",
+    "speaker": "T",
+    "utterance": "Yeah, both the domain ranges are blank.",
+    "LRE": "G"
+  },
+  {
+    "index": "2",
+    "speaker": "T",
+    "utterance": "So, you can actually say, ‘x’s not equal to zero’ or, in that case, you’re gonna have to say, ‘are the set of the real numbers except zero’.",
+    "LRE": "R"
+  },
+  {
+    "index": "3",
+    "speaker": "T",
+    "utterance": "Um, how would you change the start of that sentence? So that the end means ‘the graph gets further away from the origin’. (Silence)",
+    "LRE": "D"
+  },
+  {
+    "index": "3",
+    "speaker": "S3",
+    "utterance": "Uh… if… (silence)",
+    "LRE": "D"
+  },
+  {
+    "index": "3",
+    "speaker": "T",
+    "utterance": "Did you understand the question? Actually, this sentence is wrong. But as you want to change the first half, so that the ending is ‘the graph gets further away from the origin’, how would you change the start of this sentence?",
+    "LRE": "D"
+  },
+  {
+    "index": "4",
+    "speaker": "T",
+    "utterance": "So, what are quadrants of this one?",
+    "LRE": "R"
+  },
+  {
+    "index": "4",
+    "speaker": "S2",
+    "utterance": "Four?",
+    "LRE": "R"
+  },
+  {
+    "index": "4",
+    "speaker": "T",
+    "utterance": "Alright. Yeap.",
+    "LRE": "R"
+  },
+  {
+    "index": "4",
+    "speaker": "S2",
+    "utterance": "…and two?",
+    "LRE": "R"
+  },
+  {
+    "index": "4",
+    "speaker": "T",
+    "utterance": "Yes? So, which quadrant?",
+    "LRE": "R"
+  },
+  {
+    "index": "4",
+    "speaker": "S2",
+    "utterance": "Two and four.",
+    "LRE": "R"
+  },
+  {
+    "index": "4",
+    "speaker": "T",
+    "utterance": "Yeah. Second and fourth quadrants.",
+    "LRE": "R"
+  },
+  {
+    "index": "5",
+    "speaker": "T",
+    "utterance": "So, if you move this from here to here, what do you call that kind of transformation?",
+    "LRE": "V"
+  },
+  {
+    "index": "5",
+    "speaker": "S1",
+    "utterance": "Reflection?",
+    "LRE": "V"
+  },
+  {
+    "index": "5",
+    "speaker": "T",
+    "utterance": "Yeah, reflections And do you remember this kind of transformation?",
+    "LRE": "V"
+  },
+  {
+    "index": "5",
+    "speaker": "S4",
+    "utterance": "Um… not sure. Physi…",
+    "LRE": "V"
+  },
+  {
+    "index": "5",
+    "speaker": "T",
+    "utterance": "It doesn’t start with P.",
+    "LRE": "V"
+  },
+  {
+    "index": "5",
+    "speaker": "S4",
+    "utterance": "Oh, tran, tran… transition?",
+    "LRE": "V"
+  },
+  {
+    "index": "5",
+    "speaker": "T",
+    "utterance": "It’s translation, that is, it only moves vertically or horizontally.",
+    "LRE": "V"
+  },
+  {
+    "index": "6",
+    "speaker": "T",
+    "utterance": "Yeah. two x minus two (2x-2). So, this graph is shifted in a way…? ...shifted two units to the…",
+    "LRE": "R"
+  },
+  {
+    "index": "6",
+    "speaker": "S2",
+    "utterance": "...to the x-axis.",
+    "LRE": "R"
+  },
+  {
+    "index": "6",
+    "speaker": "S4",
+    "utterance": "... fourth axis?",
+    "LRE": "R"
+  },
+  {
+    "index": "6",
+    "speaker": "T",
+    "utterance": "Yes, well, shifted two units to the right or in the positive x-direction.",
+    "LRE": "R"
+  },
+  {
+    "index": "7",
+    "speaker": "T",
+    "utterance": "If p is… say three, how would the graph be different to ‘y equals k over x?",
+    "LRE": "R"
+  },
+  {
+    "index": "7",
+    "speaker": "S7",
+    "utterance": "Minus…three?",
+    "LRE": "R"
+  },
+  {
+    "index": "7",
+    "speaker": "T",
+    "utterance": "Yeah.",
+    "LRE": "R"
+  },
+  {
+    "index": "7",
+    "speaker": "S7",
+    "utterance": "…and goes to x.",
+    "LRE": "R"
+  },
+  {
+    "index": "7",
+    "speaker": "T",
+    "utterance": "Yeah. If p is three, it’s gonna move three units in the x-directions, positive x-directions.",
+    "LRE": "R"
+  },
+  {
+    "index": "8",
+    "speaker": "T",
+    "utterance": "So, q is less confusing because it’s just moved vertically that if q’s positive, it moves upwards or if q’s negative, it moves downwards.",
+    "LRE": "V"
+  },
+  {
+    "index": "9",
+    "speaker": "T",
+    "utterance": "Um… and this here, is p, positive or negative in this one?",
+    "LRE": "R"
+  },
+  {
+    "index": "10",
+    "speaker": "S3",
+    "utterance": "Um… negative.",
+    "LRE": "R"
+  },
+  {
+    "index": "10",
+    "speaker": "S2",
+    "utterance": "Ah, moved positive for p?",
+    "LRE": "R"
+  },
+  {
+    "index": "10",
+    "speaker": "T",
+    "utterance": "Yeah, it moved to the right for p-units.",
+    "LRE": "R"
+  },
+  {
+    "index": "11",
+    "speaker": "T",
+    "utterance": "So, what are the asymptotes of ‘y equals k over x minus p plus q’?",
+    "LRE": "D"
+  },
+  {
+    "index": "11",
+    "speaker": "S8",
+    "utterance": "P and q?",
+    "LRE": "D"
+  },
+  {
+    "index": "11",
+    "speaker": "T",
+    "utterance": "Yeah, but are they more specifically…",
+    "LRE": "D"
+  },
+  {
+    "index": "11",
+    "speaker": "S8",
+    "utterance": "X equal p and y equal k.",
+    "LRE": "D"
+  },
+  {
+    "index": "11",
+    "speaker": "T",
+    "utterance": "Yes. So, p’s positive. ‘x equals p’ will be to the right of…‘x equals zero’. And that’s y-axis.",
+    "LRE": "D"
+  },
+  {
+    "index": "12",
+    "speaker": "T",
+    "utterance": "Um… what do you think about the domain of this one?",
+    "LRE": "V"
+  },
+  {
+    "index": "12",
+    "speaker": "S5",
+    "utterance": "Domain… All the numbers except p.",
+    "LRE": "V"
+  },
+  {
+    "index": "12",
+    "speaker": "T",
+    "utterance": "Yeah. And… how about the range?",
+    "LRE": "V"
+  },
+  {
+    "index": "13",
+    "speaker": "S4",
+    "utterance": "The same?",
+    "LRE": "G"
+  },
+  {
+    "index": "13",
+    "speaker": "T",
+    "utterance": "What do you mean ‘same’?",
+    "LRE": "G"
+  },
+  {
+    "index": "13",
+    "speaker": "S4",
+    "utterance": "Um… that one?",
+    "LRE": "G"
+  },
+  {
+    "index": "13",
+    "speaker": "T",
+    "utterance": "You mean its domain? Is it the range of this one?",
+    "LRE": "G"
+  },
+  {
+    "index": "13",
+    "speaker": "S4",
+    "utterance": "All real number except q?",
+    "LRE": "G"
+  },
+  {
+    "index": "13",
+    "speaker": "T",
+    "utterance": "Yeah, except q. So, ‘k over x minus p’ will never be equal to… never be equal to zero.",
+    "LRE": "G"
+  },
+  {
+    "index": "14",
+    "speaker": "S7",
+    "utterance": "Uh… interception of asymptotes?",
+    "LRE": "V"
+  },
+  {
+    "index": "14",
+    "speaker": "T",
+    "utterance": "Oh, yeah, yeah. Intercepts, that’s the point where the asymptotes intercept and… the points on the graph. What points could you choose? The points on the actual curves.",
+    "LRE": "V"
+  },
+  {
+    "index": "15",
+    "speaker": "T",
+    "utterance": "Yeap. So, x minus three cannot be equal to, cannot equal to zero or p equals to three, so… x equals p would be the asymptote.",
+    "LRE": "V"
+  },
+  {
+    "index": "17",
+    "speaker": "T",
+    "utterance": "Ok, now we got all the numbers and what do we do next?",
+    "LRE": "V"
+  },
+  {
+    "index": "17",
+    "speaker": "S6",
+    "utterance": "what’s x and y…?",
+    "LRE": "V"
+  },
+  {
+    "index": "17",
+    "speaker": "T",
+    "utterance": "Yes. We should label the x and y graphs, labelling the axes.",
+    "LRE": "V"
+  },
+  {
+    "index": "18",
+    "speaker": "T",
+    "utterance": "What do you think might happen if ‘ad minus bc’ is equal to zero?",
+    "LRE": "V"
+  },
+  {
+    "index": "18",
+    "speaker": "S6",
+    "utterance": "ad equals, ad not equals to zero?",
+    "LRE": "V"
+  },
+  {
+    "index": "18",
+    "speaker": "T",
+    "utterance": "Yeah, ad should not be equal to zero.",
+    "LRE": "V"
+  },
+  {
+    "index": "19",
+    "speaker": "T",
+    "utterance": "Yeah. And…. what kind of form will the graph have?",
+    "LRE": "V"
+  },
+  {
+    "index": "19",
+    "speaker": "S8",
+    "utterance": "It’s just wide…",
+    "LRE": "V"
+  },
+  {
+    "index": "19",
+    "speaker": "S6",
+    "utterance": "One line.",
+    "LRE": "V"
+  },
+  {
+    "index": "19",
+    "speaker": "T",
+    "utterance": "Yes, it’s just gonna be constant, linear.",
+    "LRE": "V"
+  },
+  {
+    "index": "20",
+    "speaker": "T",
+    "utterance": "That doesn’t follow the properties, the traits, we are gonna be looking at. You could also have like… I",
+    "LRE": "G"
+  },
+  {
+    "index": "21",
+    "speaker": "T",
+    "utterance": "So, if you have this, ‘y equals 2x plus 3 over x plus 1’, you can make ‘x plus 1’ numerable, too.",
+    "LRE": "V"
+  },
+  {
+    "index": "21",
+    "speaker": "S3",
+    "utterance": "numerable?",
+    "LRE": "V"
+  },
+  {
+    "index": "21",
+    "speaker": "T",
+    "utterance": "Countable. You can make ‘x plus 1’ countable.",
+    "LRE": "V"
+  },
+  {
+    "index": "22",
+    "speaker": "S10",
+    "utterance": "What if the coefficient of the denominators, x, is bigger than… um… number of… bar? I mean…",
+    "LRE": "V"
+  },
+  {
+    "index": "22",
+    "speaker": "T",
+    "utterance": "Uh… k will be less than one.",
+    "LRE": "V"
+  },
+  {
+    "index": "22",
+    "speaker": "S10",
+    "utterance": "So, is denominators… a and b are somewhat raise…?",
+    "LRE": "V"
+  },
+  {
+    "index": "22",
+    "speaker": "T",
+    "utterance": "Yes, denominators are rising…",
+    "LRE": "V"
+  },
+  {
+    "index": "22",
+    "speaker": "S10",
+    "utterance": "Yes. Do we only need to…",
+    "LRE": "V"
+  },
+  {
+    "index": "23",
+    "speaker": "T",
+    "utterance": "What kind of function is it?",
+    "LRE": "V"
+  },
+  {
+    "index": "23",
+    "speaker": "S4",
+    "utterance": "Polynomial.",
+    "LRE": "V"
+  },
+  {
+    "index": "23",
+    "speaker": "T",
+    "utterance": "Yeah, polynomial. Um… yeah, but what kind of polynomial?",
+    "LRE": "V"
+  },
+  {
+    "index": "23",
+    "speaker": "S4",
+    "utterance": "Rational?",
+    "LRE": "V"
+  },
+  {
+    "index": "23",
+    "speaker": "T",
+    "utterance": "Yeah, rational polynomial. What kind of rational polynomial?(classroom murmurs)",
+    "LRE": "V"
+  },
+  {
+    "index": "23",
+    "speaker": "T",
+    "utterance": "So, c is equal to zero and d is not equal to zero.",
+    "LRE": "V"
+  },
+  {
+    "index": "23",
+    "speaker": "S5",
+    "utterance": "Linear expression.",
+    "LRE": "V"
+  },
+  {
+    "index": "23",
+    "speaker": "T",
+    "utterance": "Yeah. It’s gonna be a over d… x plus… d over d or a over d are constants. So, it’s gonna be linear… actually it’s linear function. But it is polynomial and is rational but to be very specific, it’s linear function.",
+    "LRE": "V"
+  },
+  {
+    "index": "24",
+    "speaker": "T",
+    "utterance": "So, if you go to a certain height, there’s a formula to <> how far you can see. So, with the height you go to… h metres, h for height, by the way, you can see for a distance of 3,600 times squares of h metres.",
+    "LRE": "R"
+  },
+  {
+    "index": "25",
+    "speaker": "T",
+    "utterance": "Yes, 3,600 metres. So, basically, just get square of hundred and divide it by a, 3,600. And [23:15] a, how many times the longer distance you can see from the height of 400 metres then the maximal distance you can see from the height of 100 metres?",
+    "LRE": "V"
+  },
+  {
+    "index": "25",
+    "speaker": "S3",
+    "utterance": "66…?",
+    "LRE": "V"
+  },
+  {
+    "index": "25",
+    "speaker": "T",
+    "utterance": "How many times further can you see?",
+    "LRE": "V"
+  },
+  {
+    "index": "25",
+    "speaker": "S3",
+    "utterance": "Two, two?",
+    "LRE": "V"
+  },
+  {
+    "index": "25",
+    "speaker": "T",
+    "utterance": "Yeah, two times or twice further.",
+    "LRE": "V"
+  },
+  {
+    "index": "26",
+    "speaker": "T",
+    "utterance": "How many times further can you see?",
+    "LRE": "V"
+  },
+  {
+    "index": "26",
+    "speaker": "S3",
+    "utterance": "Two, two?",
+    "LRE": "V"
+  },
+  {
+    "index": "26",
+    "speaker": "T",
+    "utterance": "Yeah, two times or twice further.",
+    "LRE": "V"
+  },
+  {
+    "index": "27",
+    "speaker": "T",
+    "utterance": "So, again, we gonna look at first the expressions. So, what do you call, do you know what the name of this symbol? C: Roots.",
+    "LRE": "V"
+  },
+  {
+    "index": "27",
+    "speaker": "T",
+    "utterance": "Yes, that’s roots sign or roots symbol or also a radical sign or a radical symbol.",
+    "LRE": "V"
+  },
+  {
+    "index": "28",
+    "speaker": "T",
+    "utterance": "So, for example, for squared of x minus 2 (x-2) to be the real number, we need…",
+    "LRE": "G"
+  },
+  {
+    "index": "28",
+    "speaker": "S9",
+    "utterance": "Uh, x is bigger than four or same.",
+    "LRE": "G"
+  },
+  {
+    "index": "28",
+    "speaker": "T",
+    "utterance": "Yes, so, x minus four is bigger than or equal to zero. Or x is bigger than or equal to four.",
+    "LRE": "G"
+  },
+  {
+    "index": "29",
+    "speaker": "T",
+    "utterance": "So, for this one, what do you think the domain would be?",
+    "LRE": "R"
+  },
+  {
+    "index": "29",
+    "speaker": "S7",
+    "utterance": "x is greater or the same… greater than one over two or the same.",
+    "LRE": "R"
+  },
+  {
+    "index": "29",
+    "speaker": "T",
+    "utterance": "Yeap, awesome. x is greater than or equal to a half.",
+    "LRE": "R"
+  },
+  {
+    "index": "30",
+    "speaker": "S9",
+    "utterance": "Only two are constant in the root.",
+    "LRE": "V"
+  },
+  {
+    "index": "30",
+    "speaker": "T",
+    "utterance": "Yeap. [27:25] Two is the only constant in the root.",
+    "LRE": "V"
+  },
+  {
+    "index": "31",
+    "speaker": "T",
+    "utterance": "What kind of expressions does it use?",
+    "LRE": "V"
+  },
+  {
+    "index": "31",
+    "speaker": "S3",
+    "utterance": "Line.",
+    "LRE": "V"
+  },
+  {
+    "index": "31",
+    "speaker": "T",
+    "utterance": "Yeah, this function uses a linear expression.",
+    "LRE": "V"
+  },
+  {
+    "index": "32",
+    "speaker": "T",
+    "utterance": "So, another word that could be new is radicand. Do you know what radicand is?",
+    "LRE": "V"
+  },
+  {
+    "index": "33",
+    "speaker": "T",
+    "utterance": "So, another word that could be new is radicand. Do you know what radicand is?",
+    "LRE": "V"
+  },
+  {
+    "index": "33",
+    "speaker": "S6",
+    "utterance": "...number in the roots?",
+    "LRE": "V"
+  },
+  {
+    "index": "33",
+    "speaker": "T",
+    "utterance": "Yes, the value inside the roots or under the radical sign is the radicand.",
+    "LRE": "V"
+  },
+  {
+    "index": "34",
+    "speaker": "S8",
+    "utterance": "… and the number inside the root is 7.",
+    "LRE": "V"
+  },
+  {
+    "index": "34",
+    "speaker": "T",
+    "utterance": "Yes, the value inside the roots, what’s the name for that?",
+    "LRE": "V"
+  },
+  {
+    "index": "34",
+    "speaker": "S8",
+    "utterance": "Uh… I don’t know.",
+    "LRE": "V"
+  },
+  {
+    "index": "34",
+    "speaker": "T",
+    "utterance": "We’ve learned it last week. Ra…",
+    "LRE": "V"
+  },
+  {
+    "index": "34",
+    "speaker": "S8",
+    "utterance": "Radiant?",
+    "LRE": "V"
+  },
+  {
+    "index": "34",
+    "speaker": "T",
+    "utterance": "Radicand, the radicand. Now, let’s move on to…",
+    "LRE": "V"
+  },
+  {
+    "index": "35",
+    "speaker": "T",
+    "utterance": "So, again, what’s the radicand mean?",
+    "LRE": "V"
+  },
+  {
+    "index": "36",
+    "speaker": "T",
+    "utterance": "Yeap, 4x plus 3 is their radicand. For the rational expression to have a real value, a real number value, the radicands must satisfy the… its value is greater than or equal to zero.",
+    "LRE": ""
+  },
+  {
+    "index": "37",
+    "speaker": "T",
+    "utterance": "So, if the radicand is negative, this part will be…",
+    "LRE": "R"
+  },
+  {
+    "index": "37",
+    "speaker": "S2",
+    "utterance": "Imaginary…",
+    "LRE": "R"
+  },
+  {
+    "index": "37",
+    "speaker": "T",
+    "utterance": "Yeah, imaginary. Imaginary, not real, right?",
+    "LRE": "R"
+  },
+  {
+    "index": "38",
+    "speaker": "T",
+    "utterance": "So, again, we gonna look at first the expressions. So, what do you call, do you know what the name of this symbol? C: Roots.",
+    "LRE": "R"
+  },
+  {
+    "index": "38",
+    "speaker": "T",
+    "utterance": "Yes, that’s roots sign or roots symbol or also a radical sign or a radical symbol.",
+    "LRE": "R"
+  },
+  {
+    "index": "39",
+    "speaker": "S2",
+    "utterance": "X equal to and bigger than minus two.",
+    "LRE": "V"
+  },
+  {
+    "index": "39",
+    "speaker": "S3",
+    "utterance": "...or same.",
+    "LRE": "V"
+  },
+  {
+    "index": "40",
+    "speaker": "T",
+    "utterance": "Say that again?",
+    "LRE": "R"
+  },
+  {
+    "index": "40",
+    "speaker": "S2",
+    "utterance": "X plus two is larger or equal to zero.",
+    "LRE": "R"
+  },
+  {
+    "index": "40",
+    "speaker": "S3",
+    "utterance": "Equal 은 아니야 (It is not equal).",
+    "LRE": "R"
+  },
+  {
+    "index": "40",
+    "speaker": "S2",
+    "utterance": "Then, just larger.",
+    "LRE": "R"
+  },
+  {
+    "index": "41",
+    "speaker": "S2",
+    "utterance": "X equal to and bigger than minus two.",
+    "LRE": "D"
+  },
+  {
+    "index": "41",
+    "speaker": "S3",
+    "utterance": "...or same.",
+    "LRE": "D"
+  },
+  {
+    "index": "42",
+    "speaker": "T",
+    "utterance": "Say that again?",
+    "LRE": "R"
+  },
+  {
+    "index": "42",
+    "speaker": "S2",
+    "utterance": "X plus two is larger or equal to zero.",
+    "LRE": "R"
+  },
+  {
+    "index": "42",
+    "speaker": "S3",
+    "utterance": "Equal 은 아니야 (It is not equal).",
+    "LRE": "R"
+  },
+  {
+    "index": "42",
+    "speaker": "S2",
+    "utterance": "Then, just larger.",
+    "LRE": "R"
+  },
+  {
+    "index": "42",
+    "speaker": "T",
+    "utterance": "Yes, only larger, greater than minus two. So, x plus two cannot be equal to zero because then, the nominator would be zero. In that case, we will have to exclude the ‘equals’ part. So, only ‘x is greater than minus two’.",
+    "LRE": "R"
+  },
+  {
+    "index": "43",
+    "speaker": "S2",
+    "utterance": "X equal to and bigger than minus two.",
+    "LRE": "V"
+  },
+  {
+    "index": "43",
+    "speaker": "S3",
+    "utterance": "...or same.",
+    "LRE": "V"
+  },
+  {
+    "index": "44",
+    "speaker": "T",
+    "utterance": "Say that again?",
+    "LRE": "V"
+  },
+  {
+    "index": "44",
+    "speaker": "S2",
+    "utterance": "X plus two is larger or equal to zero.",
+    "LRE": "V"
+  },
+  {
+    "index": "44",
+    "speaker": "S3",
+    "utterance": "Equal 은 아니야 (It is not equal).",
+    "LRE": "V"
+  },
+  {
+    "index": "44",
+    "speaker": "S2",
+    "utterance": "Then, just larger.",
+    "LRE": "V"
+  },
+  {
+    "index": "44",
+    "speaker": "T",
+    "utterance": "Yes, only larger, greater than minus two. So, x plus two cannot be equal to zero because then, the nominator would be zero. In that case, we will have to exclude the ‘equals’ part. So, only ‘x is greater than minus two’.",
+    "LRE": "V"
+  },
+  {
+    "index": "45",
+    "speaker": "S1",
+    "utterance": "x is bigger than minus three…",
+    "LRE": "R"
+  },
+  {
+    "index": "45",
+    "speaker": "S2",
+    "utterance": "…and smaller than two.",
+    "LRE": "R"
+  },
+  {
+    "index": "45",
+    "speaker": "T",
+    "utterance": "So, x is GREATER than or equal to minus three, and LESS than or equal to two. Yes, so, for this part to be real, x must be greater than or equal to minus three, and for this part to be real, x must be less than or equal to two.",
+    "LRE": "R"
+  },
+  {
+    "index": "46",
+    "speaker": "T",
+    "utterance": "Um, so… I’ve just calculated irrational expressions in the same way as yours.",
+    "LRE": "V"
+  },
+  {
+    "index": "46",
+    "speaker": "S4",
+    "utterance": "what?",
+    "LRE": "V"
+  },
+  {
+    "index": "46",
+    "speaker": "T",
+    "utterance": "the same way as your rational expressions.",
+    "LRE": "V"
+  },
+  {
+    "index": "47",
+    "speaker": "T",
+    "utterance": "So that if you have… two over three. You wouldn’t even write the number like this. Because it’s just kind of a convention not to have the nominator, irrational. So, we call it ‘rationalising that, the nominator’ or another word is ‘removing the root from the nominator’.",
+    "LRE": "V"
+  },
+  {
+    "index": "48",
+    "speaker": "T",
+    "utterance": "Do you know the English for solving this kind of problem? (silence)",
+    "LRE": "R"
+  },
+  {
+    "index": "48",
+    "speaker": "T",
+    "utterance": "English is... ‘difference of, difference of the two squares’. So, in that case, difference here means… actually, in this case, difference means subtraction.",
+    "LRE": "R"
+  },
+  {
+    "index": "49",
+    "speaker": "T",
+    "utterance": "So that could be ‘a squared minus b squared’, and ‘the difference between them’ means subtraction.",
+    "LRE": "R"
+  },
+  {
+    "index": "50",
+    "speaker": "T",
+    "utterance": "So, for this one, what do you think the domain would be?",
+    "LRE": "V"
+  },
+  {
+    "index": "50",
+    "speaker": "S5",
+    "utterance": "x is greater or the same… greater than one over two or the same.",
+    "LRE": "V"
+  },
+  {
+    "index": "50",
+    "speaker": "T",
+    "utterance": "Yeap, awesome. x is greater than or equal to a half.",
+    "LRE": "V"
+  },
+  {
+    "index": "51",
+    "speaker": "T",
+    "utterance": "So, for this one, what do you think the domain would be?",
+    "LRE": "V"
+  },
+  {
+    "index": "52",
+    "speaker": "S5",
+    "utterance": "x is greater or the same… greater than one over two or the same.",
+    "LRE": "R"
+  },
+  {
+    "index": "52",
+    "speaker": "T",
+    "utterance": "Yeap, awesome. Your answer. x is greater than or equal to a half.",
+    "LRE": "R"
+  },
+  {
+    "index": "53",
+    "speaker": "T",
+    "utterance": "Yeah, rational polynomial. But what kind of rational polynomial? (classroom murmurs)",
+    "LRE": "R"
+  },
+  {
+    "index": "53",
+    "speaker": "T",
+    "utterance": "So, c is equal to zero and d is not equal to zero.",
+    "LRE": "R"
+  },
+  {
+    "index": "53",
+    "speaker": "S3",
+    "utterance": "Linear expression.",
+    "LRE": "R"
+  },
+  {
+    "index": "53",
+    "speaker": "T",
+    "utterance": "Yeah. So, it’s gonna be linear (.) actually, it’s linear function. Yes, it is polynomial and yes, it is rational, but to be more specific, it’s linear function.",
+    "LRE": "R"
+  },
+  {
+    "index": "54",
+    "speaker": "S4",
+    "utterance": "x bars x is greater or the same.",
+    "LRE": "V"
+  },
+  {
+    "index": "54",
+    "speaker": "S3",
+    "utterance": "x bars x is smaller or same.",
+    "LRE": "V"
+  },
+  {
+    "index": "54",
+    "speaker": "T",
+    "utterance": "Okay. And…",
+    "LRE": "V"
+  },
+  {
+    "index": "54",
+    "speaker": "S4",
+    "utterance": "x is greater than or equal to…",
+    "LRE": "V"
+  },
+  {
+    "index": "54",
+    "speaker": "T",
+    "utterance": "So, for drawing a graph of an irrational function... actually, first, we’re gonna look at… y equals the square of x and then later a bit, y equals the square of a. And this is a… one to one correspondence that the domain is gonna be x is greater than or equal to zero.",
+    "LRE": "V"
+  },
+  {
+    "index": "55",
+    "speaker": "T",
+    "utterance": "the coordinate of this…",
+    "LRE": ""
+  },
+  {
+    "index": "55",
+    "speaker": "S6",
+    "utterance": "y is greater or the same.",
+    "LRE": ""
+  },
+  {
+    "index": "55",
+    "speaker": "T",
+    "utterance": "Yes. So, the domain of this will be x is greater than or equal to zero. y is greater than or equal to zero.",
+    "LRE": ""
+  },
+  {
+    "index": "56",
+    "speaker": "T",
+    "utterance": "So, you can get the inverse graph… the graph of y equals the square of x is a reflection of the graph of this function, we call it an inverse graph.",
+    "LRE": "V"
+  },
+  {
+    "index": "57",
+    "speaker": "T",
+    "utterance": "Yes. And this one is reflected… C: Fourier axis.",
+    "LRE": "V"
+  },
+  {
+    "index": "57",
+    "speaker": "T",
+    "utterance": "Yes, through the origin or across the origin.",
+    "LRE": "V"
+  },
+  {
+    "index": "58",
+    "speaker": "T",
+    "utterance": "What would be the domain of this one?",
+    "LRE": "R"
+  },
+  {
+    "index": "58",
+    "speaker": "S1",
+    "utterance": "Second…",
+    "LRE": "R"
+  },
+  {
+    "index": "58",
+    "speaker": "S2",
+    "utterance": "x is small… smaller than zero. So, two.",
+    "LRE": "R"
+  },
+  {
+    "index": "58",
+    "speaker": "T",
+    "utterance": "Yeap. So, x is less than or equal to zero and it’s in the second quadrant.",
+    "LRE": "R"
+  },
+  {
+    "index": "59",
+    "speaker": "T",
+    "utterance": "What would be the domain of this one?",
+    "LRE": "D"
+  },
+  {
+    "index": "59",
+    "speaker": "S1",
+    "utterance": "Second…",
+    "LRE": "D"
+  },
+  {
+    "index": "59",
+    "speaker": "S2",
+    "utterance": "x is small… smaller than zero. So, two.",
+    "LRE": "D"
+  },
+  {
+    "index": "59",
+    "speaker": "T",
+    "utterance": "Yeap. So, x is less than or equal to zero and it’s in the second quadrant.",
+    "LRE": "D"
+  },
+  {
+    "index": "60",
+    "speaker": "T",
+    "utterance": "… so, do you guys know the difference between ‘a number of’ and ‘the number of’? We’ve discussed about it last semester, right?",
+    "LRE": "R"
+  },
+  {
+    "index": "60",
+    "speaker": "S3",
+    "utterance": "‘a number of’ means ‘many’?",
+    "LRE": "R"
+  },
+  {
+    "index": "60",
+    "speaker": "T",
+    "utterance": "yes, yes.",
+    "LRE": "R"
+  },
+  {
+    "index": "61",
+    "speaker": "T",
+    "utterance": "… and if you’ve read through the exercises, you probably saw the word ‘translate’ used in the problem, ‘if you translate the graph of y=f(x)…’. What does ‘translate’ mean here? Anyone? (silence)",
+    "LRE": "V"
+  },
+  {
+    "index": "61",
+    "speaker": "T",
+    "utterance": "Well, please have a look at the (word) list, everyone, and stick to that definition.",
+    "LRE": "V"
+  },
+  {
+    "index": "62",
+    "speaker": "T",
+    "utterance": "You can get the x-intercept in that one, too.",
+    "LRE": "V"
+  },
+  {
+    "index": "62",
+    "speaker": "S2",
+    "utterance": "X-intercept?",
+    "LRE": "V"
+  },
+  {
+    "index": "62",
+    "speaker": "T",
+    "utterance": "Yes, intercept. If you look at the handout (wordlist)… it says ‘the point that the graph crosses on the x-axis’. Okay? Let’s move on to the next question.",
+    "LRE": "V"
+  },
+  {
+    "index": "63",
+    "speaker": "T",
+    "utterance": "This one here, y equals squared ax. What do you think ‘a’ is, here?",
+    "LRE": "R"
+  },
+  {
+    "index": "63",
+    "speaker": "S3",
+    "utterance": "Coeffect?",
+    "LRE": "R"
+  },
+  {
+    "index": "63",
+    "speaker": "T",
+    "utterance": "Again? Co?",
+    "LRE": "R"
+  },
+  {
+    "index": "63",
+    "speaker": "S3",
+    "utterance": "Co(.) Coeffec?",
+    "LRE": "R"
+  },
+  {
+    "index": "63",
+    "speaker": "T",
+    "utterance": "Uh… it’s coefficient. Or we can say?",
+    "LRE": "R"
+  },
+  {
+    "index": "64",
+    "speaker": "T",
+    "utterance": "So, y will have real value. Um… what would the range be for this?",
+    "LRE": "R"
+  },
+  {
+    "index": "64",
+    "speaker": "S5",
+    "utterance": "y is equal or more than zero?",
+    "LRE": "R"
+  },
+  {
+    "index": "64",
+    "speaker": "T",
+    "utterance": "Yes, so, in that case, y is greater than or equal to zero.",
+    "LRE": "R"
+  },
+  {
+    "index": "65",
+    "speaker": "T",
+    "utterance": "So, generally, what do you think it would be the inverse of this function, y equals square of ax?",
+    "LRE": "V"
+  },
+  {
+    "index": "65",
+    "speaker": "S4",
+    "utterance": "...ax square?",
+    "LRE": "V"
+  },
+  {
+    "index": "65",
+    "speaker": "T",
+    "utterance": "Do the… follow the procedure. First, how do you get the inverse one, again?",
+    "LRE": "V"
+  },
+  {
+    "index": "65",
+    "speaker": "S4",
+    "utterance": "You switch x and y?",
+    "LRE": "V"
+  },
+  {
+    "index": "65",
+    "speaker": "T",
+    "utterance": "Okay. So, y will be equal to… yes, this is for [...] … and then, when a is positive, the domain or range of this would be x is greater than or equal to zero and y is greater than or equal to zero. So, this would be the domain or range. Next, find the inverse of that… which is y equals x squared over a. Domain is x is greater than or equal to zero. So, that graph, the graph here would be the reflection of the graph of this above the line…",
+    "LRE": "V"
+  },
+  {
+    "index": "65",
+    "speaker": "S5",
+    "utterance": "y equals x?",
+    "LRE": "V"
+  },
+  {
+    "index": "65",
+    "speaker": "T",
+    "utterance": "Yes, y equals x. So, the graph will look like this… and the pink one for positive a and the blue one for negative a.",
+    "LRE": "V"
+  },
+  {
+    "index": "66",
+    "speaker": "T",
+    "utterance": "um… what happens to the graph as absolute value of a gets bigger?",
+    "LRE": "R"
+  },
+  {
+    "index": "66",
+    "speaker": "S5",
+    "utterance": "The graph goes from the x-axis?",
+    "LRE": "R"
+  },
+  {
+    "index": "66",
+    "speaker": "T",
+    "utterance": "Yes, exactly. It moves further away from the x-axis. So, as you can see, as a goes one to two to three, the graph gets further away.",
+    "LRE": "R"
+  },
+  {
+    "index": "67",
+    "speaker": "T",
+    "utterance": "So, when this y equals zero, the x-axis will be what?",
+    "LRE": "R"
+  },
+  {
+    "index": "67",
+    "speaker": "S9",
+    "utterance": "Asymptote.",
+    "LRE": "R"
+  },
+  {
+    "index": "67",
+    "speaker": "T",
+    "utterance": "Yes, yes. It’s asymptote, but what kind of?",
+    "LRE": "R"
+  },
+  {
+    "index": "67",
+    "speaker": "S9",
+    "utterance": "It’s…",
+    "LRE": "R"
+  },
+  {
+    "index": "67",
+    "speaker": "T",
+    "utterance": "Starts with ‘h’.",
+    "LRE": "R"
+  },
+  {
+    "index": "67",
+    "speaker": "S9",
+    "utterance": "Horizon?",
+    "LRE": "R"
+  },
+  {
+    "index": "67",
+    "speaker": "T",
+    "utterance": "Right, horizonTAL asymptote.",
+    "LRE": "R"
+  },
+  {
+    "index": "68",
+    "speaker": "T",
+    "utterance": "Um… this is gonna be translated… how many units horizontally?",
+    "LRE": "R"
+  },
+  {
+    "index": "68",
+    "speaker": "S8",
+    "utterance": "Up?",
+    "LRE": "R"
+  },
+  {
+    "index": "68",
+    "speaker": "T",
+    "utterance": ":horizontally, moves either right or left? C: Q.",
+    "LRE": "R"
+  },
+  {
+    "index": "68",
+    "speaker": "T",
+    "utterance": "Q, yes. So, if p is positive, this will move… which direction?",
+    "LRE": "R"
+  },
+  {
+    "index": "68",
+    "speaker": "S8",
+    "utterance": "Right?",
+    "LRE": "R"
+  },
+  {
+    "index": "68",
+    "speaker": "T",
+    "utterance": "Yes, right. If p is negative, this will move left.",
+    "LRE": "R"
+  },
+  {
+    "index": "69",
+    "speaker": "T",
+    "utterance": "So, what’s the domain of that?",
+    "LRE": "V"
+  },
+  {
+    "index": "69",
+    "speaker": "S5",
+    "utterance": "x is… more or equal to three, and y is two?",
+    "LRE": "V"
+  },
+  {
+    "index": "69",
+    "speaker": "T",
+    "utterance": "Yes. X is greater than or equal to three, and y is greater than or equal to two",
+    "LRE": "V"
+  },
+  {
+    "index": "70",
+    "speaker": "T",
+    "utterance": "And… what’s the range?",
+    "LRE": "R"
+  },
+  {
+    "index": "70",
+    "speaker": "S4",
+    "utterance": "P bigger than q.",
+    "LRE": "R"
+  },
+  {
+    "index": "70",
+    "speaker": "T",
+    "utterance": "Uh, huh?",
+    "LRE": "R"
+  },
+  {
+    "index": "70",
+    "speaker": "S4",
+    "utterance": "Y is greater than…?",
+    "LRE": "R"
+  },
+  {
+    "index": "70",
+    "speaker": "T",
+    "utterance": "Yes, and?",
+    "LRE": "R"
+  },
+  {
+    "index": "70",
+    "speaker": "S4",
+    "utterance": "Ah, y is greater than or equal to q.",
+    "LRE": "R"
+  },
+  {
+    "index": "70",
+    "speaker": "T",
+    "utterance": "Yes, y is greater than or equal to q.",
+    "LRE": "R"
+  },
+  {
+    "index": "71",
+    "speaker": "T",
+    "utterance": "If you look at the domain, x is greater than or equal to p when a is positive and x is less than or equal to p when a is…?",
+    "LRE": "R"
+  },
+  {
+    "index": "71",
+    "speaker": "S2",
+    "utterance": "...minus.",
+    "LRE": "R"
+  },
+  {
+    "index": "71",
+    "speaker": "T",
+    "utterance": "Yes, when a is negative.",
+    "LRE": "R"
+  },
+  {
+    "index": "72",
+    "speaker": "T",
+    "utterance": "The domain of this one? (silence)",
+    "LRE": "R"
+  },
+  {
+    "index": "72",
+    "speaker": "T",
+    "utterance": "X…?",
+    "LRE": "R"
+  },
+  {
+    "index": "72",
+    "speaker": "S3",
+    "utterance": "… equals to two units?",
+    "LRE": "R"
+  },
+  {
+    "index": "72",
+    "speaker": "T",
+    "utterance": "Um… yes, x is greater than or equal to two.",
+    "LRE": "R"
+  },
+  {
+    "index": "73",
+    "speaker": "T",
+    "utterance": "The range of y is?",
+    "LRE": ""
+  },
+  {
+    "index": "73",
+    "speaker": "S4",
+    "utterance": "Y is bigger or equal to two.",
+    "LRE": ""
+  },
+  {
+    "index": "73",
+    "speaker": "T",
+    "utterance": "Yes, greater than. The range of y is greater than or equal to two.",
+    "LRE": ""
+  },
+  {
+    "index": "74",
+    "speaker": "T",
+    "utterance": "**?",
+    "LRE": ""
+  },
+  {
+    "index": "74",
+    "speaker": "S6",
+    "utterance": "Yes?",
+    "LRE": ""
+  },
+  {
+    "index": "74",
+    "speaker": "T",
+    "utterance": "What’s another point of the first one?",
+    "LRE": ""
+  },
+  {
+    "index": "74",
+    "speaker": "S6",
+    "utterance": "Three comma four?",
+    "LRE": ""
+  },
+  {
+    "index": "74",
+    "speaker": "T",
+    "utterance": "Yes, but what’s another…",
+    "LRE": ""
+  },
+  {
+    "index": "74",
+    "speaker": "S6",
+    "utterance": "Oh, another? It goes to…",
+    "LRE": ""
+  },
+  {
+    "index": "74",
+    "speaker": "T",
+    "utterance": "… it goes through the point...",
+    "LRE": ""
+  },
+  {
+    "index": "75",
+    "speaker": "S2",
+    "utterance": "Uh… Mr. **? What do intercepts mean?",
+    "LRE": ""
+  },
+  {
+    "index": "75",
+    "speaker": "T",
+    "utterance": "They're the points where these graphs cross the x-axis or y-axis.",
+    "LRE": ""
+  },
+  {
+    "index": "76",
+    "speaker": "T",
+    "utterance": "For example, if you want to draw this, in that case, on your sheet, you can see that square of ax plus b plus c is equal to square of…",
+    "LRE": ""
+  },
+  {
+    "index": "76",
+    "speaker": "S3",
+    "utterance": "...a, x plus b?",
+    "LRE": ""
+  },
+  {
+    "index": "76",
+    "speaker": "T",
+    "utterance": "...yes, it equals to square of a times x plus b over a.",
+    "LRE": ""
+  },
+  {
+    "index": "77",
+    "speaker": "T",
+    "utterance": "So, comparing that to this, what would p be equal to?",
+    "LRE": ""
+  },
+  {
+    "index": "77",
+    "speaker": "S11",
+    "utterance": "P… a, b?",
+    "LRE": ""
+  },
+  {
+    "index": "77",
+    "speaker": "S2",
+    "utterance": "Three?",
+    "LRE": ""
+  },
+  {
+    "index": "77",
+    "speaker": "T",
+    "utterance": "No, sorry. Generally.",
+    "LRE": ""
+  },
+  {
+    "index": "77",
+    "speaker": "S2",
+    "utterance": "minus b over a?",
+    "LRE": ""
+  },
+  {
+    "index": "77",
+    "speaker": "T",
+    "utterance": "Yes, p is gonna be equal to minus b over a.",
+    "LRE": ""
+  },
+  {
+    "index": "78",
+    "speaker": "T",
+    "utterance": "So, what’s the domain of that?",
+    "LRE": ""
+  },
+  {
+    "index": "78",
+    "speaker": "S2",
+    "utterance": "x is… more or equal to three and y is small than two?",
+    "LRE": ""
+  },
+  {
+    "index": "78",
+    "speaker": "T",
+    "utterance": "Can you say that again?",
+    "LRE": ""
+  },
+  {
+    "index": "78",
+    "speaker": "S2",
+    "utterance": "x is more or equal to…",
+    "LRE": ""
+  },
+  {
+    "index": "78",
+    "speaker": "T",
+    "utterance": "Alright, so, x is greater than or equal to three and y is less than two.",
+    "LRE": ""
+  }
+]
