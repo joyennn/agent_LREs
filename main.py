@@ -451,14 +451,14 @@ def agent_dialogue(json_filename: str, num_cycles: int, prompt, models: list):
 prompts_econ = [prompt1, prompt2, prompt3, prompt4_econ, prompt5_econ]
 prompts_math = [prompt1, prompt2, prompt3, prompt4_math, prompt5_math]
 
-for p in prompts:
+for p in prompts_econ:
     agent_dialogue(
         json_filename="high_econ.json",
         num_cycles=20,
         prompt=p,
         models=["gpt-4o"])
     
-for p in prompts:
+for p in prompts_math:
     agent_dialogue(
         json_filename="high_math.json",
         num_cycles=20,
@@ -480,3 +480,6 @@ agent_dialogue(
     num_cycles=20,
     prompt=prompt3,
     models=models)
+
+
+
