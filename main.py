@@ -447,7 +447,7 @@ def agent_dialogue(json_filename: str, num_cycles: int, prompt, models: list):
 # 7. Processing
 # ================================
 
-### phase1 ###
+### phase2 ###
 prompts_econ = [prompt1, prompt2, prompt3, prompt4_econ, prompt5_econ]
 prompts_math = [prompt1, prompt2, prompt3, prompt4_math, prompt5_math]
 
@@ -466,7 +466,7 @@ for p in prompts:
         models=["gpt-4o"])
 
 
-### phase2 ###
+### phase3 ###
 models = ["gpt-4o", "gemini", "claude", "llama3"]
 
 agent_dialogue(
